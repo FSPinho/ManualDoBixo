@@ -4,6 +4,11 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimaryTransparent">#553F51B5</color>
+    <color name="colorPrimaryDarkTransparent">#55303F9F</color>
+    <color name="colorAccentTransparent">#55FF4081</color>
+
     <!--reds-->
     <color name="md_red_50">#FFEBEE</color>
     <color name="md_red_100">#FFCDD2</color>

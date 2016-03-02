@@ -1,0 +1,528 @@
+#ITEM
+#Experiências dos Veteranos
+#Você não precisa estudar mais! Você precisa estudar direito!
+#images/default.jpeg
+#Gostamos de pensar que não conseguimos aprovação em alguma disciplina por não estarmos motivados, e que se não estamos motivados a culpa é do professor. Motivação é um sentimento que deixa nosso caminho mais agradável, mas não é o mais importante e o professor concerteza não é o culpado! No contexto de um estudante, esforço pessoal significa sentar na cadeira e estudar, mesmo sem essa motivação.
+	Mas, calma! Isso não significa que devemos aguentar horas estudando conteúdos chatos. Se isso estiver acontecendo, há algo errado! Depois de alguns semestres estudando um dia antes da prova, é curioso perceber que embora fiquemos chateados em ler páginas e mais páginas de um livro, os conteúdos são realmente interessantes. Claro, fazermos TI e Gostamos disso! Ah, Cálculo, se tivessemos nos conhecido em outra situação, teria sido melhor. Tinha que ser dois dias antes da prova :p ?
+	A dica é sempre começar seus estudos com o semestre, e seguí-los aos poucos. Se o professor fala sobre determinado conteúdo, complemente-o com uma boa lida no livro. Tire suas dúvidas, mande email ao professor ou vá à sua sala, perturbe ele. Participe das células de aprendizagem coopertiva, das monitorias, grupos de estudo. Transforme cada trabalho chato numa oportunidade de aprender algo novo. Claro que sempre haverá um pouco de preguiça, mas lembre-se que a verdadeira motivação vem de dentro de você ;)
+	Crescemos acostumados com a "lei do menor esforço". Por que fazer o melhor, se o bom já é suficiente? Ao utilizar essa filosofia em nossos estudos, nos prendemos à falsa sensação de dever cumprido ao terminar cada disciplina. O que nem sempre percebemos é que nos nivelamos pelo referencial errado. Em outras palavras, se você medir todo seu esforço a capacidade em relação às pessoas medíocres, você será bom. Mas se você medir seu esforço em relação aos melhores, sua capacidade não terá limites.
+
+#ITEM
+#Experiências dos Veteranos
+#Siglas Malucas
+#images/default.jpeg
+#Das várias manias adquiridas pelos calouros em seus primeiros semestres, a intensa utilização de siglas é uma das mais comuns. Mas eles demoram um pouco até dominarem a arte da abreviação. Seguem alguns exemplos.
+	Instalações: Universidade Federal do Cerá (UFC), Instituto Federal do Ceará (IF), Restaurante Universitário (RU), Laboratórios (Lab), Biblioteca (BCQ).
+	Cursos: Engenharia de Software (ES), Redes de Computadores (Redes), Sistemas de Informação (SI), Ciência da Computação (CC), Engenharia de Computação (EC) e Design Digital (Design).
+	Disciplinas: Fundamentos de Programação (FUP), Programação Orientada a Objetos (POO), Introdução à Ciência da Computação e Sistemas de Informação (ICCSI), Teoria Geral da Administração (TGA), Teoria Geral dos Sistemas (TGS), Banco de Dados (BD), Projeto e Análise de Algorítmos (PAA), entre outros.
+	Não se preocupe muito em decorá-las, isso acontecerá naturalmente, e cuidado com a (AF) Avaliação Final. Mas, em hipótese alguma, chame o RU de “restaurante” ou o Lab de “laboratório de informática”, ou você será severamente zoado.
+
+#ITEM
+#Experiências dos Veteranos
+#Socialize-se!
+#images/default.jpeg
+#Todos os novatos estão passando por um momento delicado de suas vidas. Em sua maioria, acabaram de mudar de cidade, abandonaram família e amigos de infância e estão morando fora de casa pela primeira vez. Tais fatores, somados às dificuldades do dia a dia na faculdade, mexem bastante com as emoções dos calouros.
+	Com isso, é bastante comum que num primeiro momento seja difícil conseguir amigos, mas um pouco de apoio emocional nesse momento é essencial para a sobrevivência do calouro.
+	Felizmente, na UFC existem muitas opções para os novatos se socializarem e encontrarem parceiros de luta. As Células de Aprendizagem Cooperativa, a Maratona de Programação, as Monitorias, os Grupos de estudo informais, etc, todos reúnem e proporcionam um maior contato entre os estudantes. Cada um destes projetos está detalhado em seu respectivo tópico deste manual. Além disso, temos o serviço de Psicologia aqui no Campus! É só procurar a Luiza que ela arranja um horário para você! 
+	Independente de como aconteça, a criação de laços é algo natural e precioso. Serão essas pessoas que participarão dos momentos de felicidade em nossa dura saga na graduação. Elas enxugarão nossas lágrimas quando formos para a AF, passarão pasta de dente em nossas faces enquanto dormimos, mas principalmente, irão mostrar que a zoeira não tem fim :3
+
+#ITEM
+#Experiências dos Veteranos
+#Ensino Médio vs Faculdade
+#images/default.jpeg
+#No Ensino Fundamental, a cada ano ficávamos imaginando o quão difícil seria a próxima série. Mas, no final, todas eram iguais. Quando chegamos ao Ensino Médio não foi diferente, continuamos com aquela rotina de estudos desorganizada, procrastinando e sendo desleixados como de costume. Para a maioria dos calouros, nos períodos no ensino fundamental e médio, cada disciplina é um degrau a ser superado, mas, o mais alto de todos separa o terceiro ano do ensino médio do primeiro semestre na faculdade. 
+	Um dos primeiros sentimentos que preenchem os corações dos calouros é o de “não vou acompanhar a turma”, o que faz eles prestarem uma atenção desumana nas primeiras aulas. Mas, com o tempo, a maioria acaba se desleixando novamente e desorganizando sua rotina de estudos. A grande diferença é que, ao contrário de como ocorria antes, no ensino superior “o negócio é mais em baixo”. Se o aluno não estudar, é pouco provável que sobreviva ao semestre. Os professores são tratores com rodas tamanho extra, passando por cima de você sem qualquer piedade.
+	Mas, apesar de tudo, é possível! O pré-requisito mais importante para um bom desempenho na universidade é o mesmo que nos faltou na infância e adolescência: o simples esforço pessoal, o qual pode ser convertido em estudo, participação nas atividades do campus, responsabilidade, etc. Além disso, a universidade proporciona algo inestimável, ela “amplia nosso mundo”. Conhecemos novas pessoas, estilos de vida, lugares, criamos novos objetivos e muito mais. Este é um dos únicos lugares onde você pode aprender e criar novas coisas e colocá-las em prática com a confiança de estar fazendo um bom trabalho, e com tranquilidade para poder errar.
+
+#ITEM
+#Professores interessantes
+#As Principais Figuras da UFC!
+#images/default.jpeg
+#“Na sala de aula vocês tem um grande problema! Eu tenho 45!”.
+	Nos primeiros semestres da faculdade, conhecemos pessoas incríveis e estranhas. Amigos que são gênios, outros meio malucos, outros que são as duas coisas ao mesmo tempo. Mas dentre as pessoas mais curiosas, estão os professores.
+	Existem os mais sérios, os brincalhões, aqueles que arrancam seu couro, entre outros. Poderíamos falar de muitos, mas descreveremos aqui alguns dos que mais nos chamaram atenção.
+	Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um email com seu texto para felipe76857685@gmail.com, incluindo o nome complento e email do professor homenageado ;)
+	
+#ITEM
+#Professores interessantes
+#David Sena Oliveira
+#images/default.jpeg	
+#"David Sena, é o professor mais polêmico do campus, sem dúvidas. Mas, um conselho: Não acredite em tudo de ruim que ouvir dele antes de conhecê-lo. Eu tive o prazer de fazer uma das cadeiras mais complicadas para o meu curso com ele, e de ser aprovada com uma nota ótima - agora nisso, acredite: Ou você passa ou você não passa com ele, não tem história de AF, é 0 ou 10, é 8 ou 80. O que eu percebi, é que ele é com cada aluno exatamente da forma que ele merece. Realmente, ele não vai lhe dar muita atenção, caso você demonstre desinteresse nas aulas deles, e isso ele sempre deixa bem claro no início das aulas. Ele é uma pessoa de um conhecimento absurdo, com uma didática maravilhosa, que sempre rende aulas bastante proveitosas e prazerosas, eu nunca me dei contas das duas horas passando... Você vai acreditar que ele é um gênio, e ele é mesmo. Nas aulas sempre foi muito engraçado, e sempre inusitado, ele não desperdiça aula - já deu aula até no escuro. Muito exigente. Exigente demais. Mas antes de reclamar, repare que ele cobra exatamente aquilo que passa. E ele nunca vai deixar o aluno para trás, caso ele peça ajuda e demonstre interesse, ele sempre estará a disposição. Vai responder sempre seus emails, e nunca vai se importar se você for pedir ajuda na sala dele, nos corredores, na fila do RU... Eu já até tirei brincadeira no facebook com ele, e ele me respondeu e ainda me elogiou (Mas eu não aconselho que façam isso, kkkk). Contudo, é muito simples e carismático. Adorei a cadeira que fiz com ele, aprendi de verdade, e ele sem dúvida é um dos melhores. Aproveitem!" - Raquel Vitoriano
+	
+#ITEM
+#Professores interessantes
+#Michel Sales Bonfin
+#images/default.jpeg
+#"Michel Sales, vice coordenador do curso de redes de computadores. Ele tem uma didática incrível, dificilmente você vai conseguir ficar desatento a uma aula dele. Ele sempre conseguiu passar claramente o conteúdo, e conversar abertamente com o aluno sobre qualquer dificuldade. Sempre ajuda, mesmo nunca dando mole, está sempre disposto a ouvir o aluno, e ajudá-lo no que ele puder. No meu primeiro semestre, sua cadeira era a mais "chatinha", pois cobrava produção textual, interpretação de textos e imagens, mas ele conseguiu deixar a cadeira super interessante, e todos davam o gás para cumprir tudo da melhor maneira possível. É um professor e pessoa execelente, tanto dentro, como fora da sala de aula. Ele sempre passou confiança, e deixava os alunos confortáveis no início de tudo. Muito exigente, muito correto e muito ético. Nunca chato e sempre cobrou exatamente aquilo que pedia. Não é a toa que espero muito que ele seja meu orientador de TCC. Quem tiver a oportunidade de estudar com ele, aproveite tudo, e aproveite muito." - Raquel Vitoriano
+
+#ITEM
+#Professores interessantes
+#Ticiana Linhares Coelho da Silva
+#images/default.jpeg
+#“A Ticiana é um daqueles exemplos de que mulher pode sim ser uma profissional completa na Computação. Até o presente momento não tive a oportunidade de cursar uma disciplina com ela, mas tive a grande chance de ser orientanda dela durante um ano de bolsa, além de vê-la ministrando palestras e oficinas. Durante o período da bolsa, pude notá-la como uma pessoa forte e decidida em suas ações. Sempre exigente, mas também flexível para entender e ajudar seus alunos. Gosta de trabalho bem feito, nos conformes e feito de forma honesta. Reconhece e honra os alunos quando estes alcançam suas metas e ganham destaque. É elegante, delicada e muitíssimo competente. Sem medo algum, digo que ela é o exemplo de profissional no qual me espelho pra tentar ser parecida um dia. À você professora, meus sinceros agradecimentos por ter me ensinado tantas lições e por ter me mostrado o quão fascinante é o mundo do Data Mining.” - Hinessa Caminha.
+
+#ITEM
+#Professores interessantes
+#Ricardo Reis Pereira
+#images/default.jpeg
+#“Ricardo Reis, mais conhecido como “Ricardo ô Mito Reis”. Minha primeira impressão dele foi de medo. Todos me falavam de seu jeito exigente e de como suas aulas eram difíceis. E o fato de ele ensinar Cálculo não ajudou muito. Mas, com o tempo, percebi que ele é, na verdade, um dos poucos professores que realmente apostam alto nos alunos. A impressão que tive foi a de que, apesar de o conteúdo ser difícil e temido, ele realmente acreditava que conseguiríamos, e por isso, não diminuía o ritmo. Apenas quando percebia que realmente estávamos com dificuldade, maneirava a matéria e dava aquela ajuda. Felizmente Ricardo está buscando ares mais altos. Em breve voltará do Doutorado nos proporcionando um maior sucesso em nossa busca pelo conhecimento. Boa sorte, Big Richard! :)” - Felipe Pinho (Sistemas de Informação).
+
+#ITEM
+#Professores interessantes
+#Ingrid Teixeira Monteiro
+#images/default.jpeg
+#“Ingrid, musa inspiradora para as meninas do Campus UFC Quixadá. Chegou com seu jeito dinâmico e me cativou logo de cara com sua metodologia de ensino. Participando do evento InfoGirl, mostrou para as meninas que não importa se somos a minoria, somos capazes de fazer qualquer coisa desde que nós tenhamos força de vontade. A esta belíssima profissional, só tenho a agradecer, por sua postura, por sua criatividade e pela maneira que deixou seu conhecimento transbordar pela sala de aula. Ingrid, aqui vai meu muito obrigada.” -  Amanda Oliveira de Sousa (Sistemas de Informação).
+
+#ITEM
+#Professores interessantes
+#Germana Ferreira Rolim
+#images/default.jpeg
+#“Antes de conhecer a Germana, já me falavam que era uma ótima professora e eu tive o prazer de comprovar isso.  Lembro da dinâmica dos aviões de papel e essa foi só uma das maneiras que ela encontrou de nos envolver em suas aulas, que eram descontraídas e produtivas. Depois, na disciplina de TGS, da mesma forma, sempre com o nível lá em cima. E eu particularmente, ainda tive mais um tempo ao lado dela, que era minha orientadora da bolsa de iniciação acadêmica, onde pude aprender muitas coisas. E ainda participamos juntas do evento InfoGirl, onde pude vê-la envolvendo garotas do ensino médio em um momento único. Todas essas experiências me proporcionaram muito conhecimento e só tenho a agradecer por isso. Obrigada Germana!” - Amanda Oliveira de Sousa (Sistemas de Informação).
+
+#ITEM
+#Professores interessantes
+#João Marcelo Uchôa de Alencar
+#images/default.jpeg
+#“Durante o curso encontrei muitas disciplinas chatas e entediantes, mas poucos professores que as tornassem interessantes. De todos os professores que já tive no curso, sem duvidas João Marcelo foi o mais “Zuero”. Lembro de uma vez, que numa questão de prova, a resposta ficou muito grande e como eu tava muito apresado esqueci de passá-la a limpo antes de entregar. Depois que ele corrigiu e entregou a prova, eu olhei e ví no canto a seguinte frase: “Você já ouviu falar em paragrafo?” Sempre buscou nos mostrar que um bom aluno não é apenas aquele que faz as provas e tira notas boas, mas sim aquele que, por mais difícil que a prova seja, fica até o último minuto tentando resolvê-la, e nem aquele que consegue resolver um problema facilmente, mas sim o que tenta resolver o mesmo problema inúmeras vezes sem desistir, até conseguir. Também aprendi com ele que da primeira vez que você faz uma coisa, a mesma pode não ficar da forma como você quer, mas se você se esforçar e refazê-la várias vezes, chegará uma hora que você irá se impressionar com o que fez.” -  Ciano Saraiva (Sistemas de Informação).
+
+#ITEM
+#Professores interessantes
+#Regis Pires Magalhães
+#images/default.jpeg
+#"Era comum ouvir em suas aulas de Fundamentos de Banco de Dados:
+	- Pessoal, lista de exercícios nova postada no site!
+	- SQL pessoal, SQL é poderoso!
+	- Vamos sortear um aluno pra apresentar a resolução da lista!
+	- Pessoal, o nome dos meus cinco filhos...
+	E foi com seu jeito ímpar de se expressar, de divertir os alunos e sua metodologia pedorosa que ele, o Regis, conseguiu ganhar o respeito e admirição de todos os alunos, e principalmente a minha. Lembro-me das primeiras linhas de SQL escritas, das primeiras consultas feitas no banco de dados e da sede que tinha em assistir suas aulas. Logo fascinei-me por tudo o que estava sendo ensinado e sem dúvidas, ele foi a chave principal pra que isso ocorresse. O semestre acabou, a turma seguiu com outras disciplinas e professores, mas sempre que ocorrem os encontros repentinos nos corredores do campus, ele faz questão de sorrir e cumprimentar a cada um de nós. Sempre disposto a ajudar e a somar conhecimentos. As experiências que vivemos na Universidade depende de nós, da sorte que temos de encontrar pessoas especiais e que nos fazem sentir que somos também. O Regis é uma dessas." - Hinessa Caminha.
+
+#ITEM
+#Experiências dos Veteranos
+#Disciplinas Recomendadas
+#images/default.jpeg
+#Não é simples descrever as disciplinas, pois as impressões que temos de cada uma são bastante pessoais. Mas sempre existem aquelas mais procuradas e elogiadas pela maioria. A seguir estão descrições rápidas de algumas disciplinas legais.
+	Fundamentos Banco de Dados - Para um profissional de TI, independente de seu ângulo de visão, um conhecimento mais aprofundado de persistência de dados é muito importante. Seja um administrador ou programador, em uma empresa, todos acabam tendo que lidar com esse assunto. A disciplina, assim como a maioria, é difícil mas reveladora, além de proporcionar uma visão diferente sobre o dia a dia de uma empresa. Com ela, somos apresentados a vários detalhes do desenvolvimento de um projeto real, o que deixa o estudante mais confiante com tais desafios. Inicialmente, a disciplina é bastante teórica. Mais adiante, normalmente, é abordado a linguagem SQL, e somos apresentados ao funcionamento dos Sistemas de Gerenciamento de Banco de Dados (SGBD) mais comuns. Por fim, vemos representações gráficas do banco de dados, com modelos de Entidade Relacionamento representados por tabelas.
+	Sistemas Operacionais - Um dos motivos que faz a maioria ingressar nos cursos de TI, é a vontade de compreender como tudo é feito, como funcionam os softwares e hardwares. Nesse sentido, a disciplina de Sistemas Operacionais (SO) é de longe a mais reveladora. Após algumas aulas, percebemos o quanto foram geniais as pessoas por trás da tecnologia em nossos computadores. A disciplina é desafiadora. Nos deixa sem palavras quando percebemos que, apesar de difícil, ela nos mostra apenas uma parte pequena da vasta complexidade dos sistemas operacionais. A disciplina é bastante teórica, mas, a depender do professor, pode apresentar atividades práticas bastante interessantes.
+
+#ITEM
+#Experiências dos Veteranos
+#Disciplinas Iniciais
+#images/default.jpeg
+#Fundamentos de Programação - 	Dificuldade: Why me? Why???
+	Uma das disciplinas que mais reprovam em toda a universidade, é nela em que você se toca que realmente está numa federal. O que irá aprender nessa disciplina é basicamente tudo que precisará para começar a programar em alguma linguagem, nela você aprende desde fazer um programa que calcula o fatorial de um numero até dependendo do professor um programa capaz de descobrir a senha do facebook do(a) seu(sua) namorado(a). Então estude bastante e faça muitas, mais muitas listas de exercícios. Caso apresente alguma dificuldade, essa disciplina costuma ter 4 monitores pra tirar suas duvidas, então os procure sempre(dica: professores sempre costumam checar quem vai à monitoria, acredite: isso ajuda muito quando precisar dos míseros 0,00001 pra passar).
+
+	Pré-Calculo - Dificuldade: Não Culpar o Governo
+	Essa é a matéria que você pensa: “Que merda de governo que temos! Não entramos capacitados o suficiente na universidade e somos obrigados a aprender coisas básicas de matemática para a universidade ter o percentual mais baixo de reprovação em calculo I”. Sim, é basicamente isso. Matéria simples para alguns e difícil para outros. Matéria de Ensino Médio.
+	A dica é pegar as listas do semestre anterior, e se possível provas (coisa rara de se conseguir). E fazer muitos, mas muitos exercícios.
+
+	Introdução e Ciência da Computação - Dificuldade: Manter-se Acordado
+	Slide é vida. Essa matéria abordará de forma geral toda a história da computação, desde nosso grande amigo e pai da computação Alan Turing até umas continhas binárias FD... , mas também aprenderão quais são as melhores maneiras de manter-se acordado ou posições que não fiquem com dor nas costas nos cochilos acidentais. Dica: cafezinho da cantina (0,50 centavos).
+	Mas não pense que a prova é moleza não, algumas vezes ela costuma ser múltipla escolha (não goste disso, só ferra sua vida). Uma dica é focar nas continhas binárias!
+	A dica é sempre vir com os slides prontos para a aula e fazer anotações e resumos. Não possui monitor para essa matéria.
+
+
+#ITEM
+#Experiências dos Veteranos
+#Dicas de Projetos (Pet, Monitorias, Maratona...) 
+#images/default.jpeg
+#Nos primeiros semestres do curso, os estudantes são bombardeados com muita informação. Logo ficam sabendo do famoso PET, monitorias, maratona de programação, escola de verão, etc, mas muitos não participam por medo ou falta de tempo. O que eles não sabem é que estão perdendo uma ótima oportunidade de conhecer novas pessoas, aprender mais e encontrar seus lugares na UFC. As células de Aprendizagem Cooperativa são recomendadas a todos os alunos, em especial, aos novatos por propiciarem um contato mais descontraído entre eles, sem as pressões da sala de aula. As células existem aos montes e atendem a todos os gostos.
+	Para mais informações, acesse o link: http://pacceufc.blogspot.com.br/
+	Outro projeto recomendado é a maratona de programação. Este é um evento que ocorre mundialmente e o nosso campus sempre participa das regionais. Nele são propostos problemas computacionais que devem ser resolvidos em um determinado período de tempo. Em nosso campus são realizados encontros periódicos destinados ao treinamento de nossos guerreiros, com resolução de problemas que vão desde os mais bobos até os humanamente impossíveis. A participação nos encontros é livre a todos, até mesmo aos novatos, e proporciona um aprendizado precioso em relação à programação que será bastante útil em disciplinas mais avançadas do curso.
+	Para alunos mais avançados do segundo e terceiro semestre, ou superiores, uma ótima opção é a participação nas monitorias. Além de garantirem uma bolsa, proporcionam um aprendizado inestimável. 
+
+#ITEM
+#Sistemas da UFC
+#SIGAA
+#images/default.jpeg
+#O Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) é responsável por informatizar vários procedimentos da área acadêmica. Nele é possível ver seu histórico, suas atuais disciplinas seus respectivos horários, o calendário acadêmico da UFC além de outras coisas. Este sistema também é utilizado para a realização da matricula dos veteranos além de ser utilizado por muitos professores como ferramenta para marcarem trabalhos ou avaliações.
+	O SIGAA só pode ser visualizado pelo Firefox atravéz do seguinte link: http://www.si3.ufc.br
+
+#ITEM
+#Sistemas da UFC
+#SIPPA
+#images/default.jpeg
+#O Sistema de Presenças e Planos de Aula (SIPPA), como o nome sujere, é utilizado pelo professores para fazer a frequência dos alunos e nele ficam amostra as ementas das disciplinas. Também é possível visualizar neste sistema suas atuais disciplinas com suas respectivas notas.
+	Cada professor age de forma distinta. Alguns não fazem a chamada no SIPPA, preferem fazer em papel (gambiarra) e muitos não postam as notas das provas lá. Sim, isso mesmo! Eles adoram frescar nessas horas! Sempre demoram a por a nota ou colocam em outros locais como no Moodle. Tudo pra deixar a gente mais doido ainda.
+	O SIPPA pode ser acessado no link:  https://sistemas.quixada.ufc.br/apps/sippa/index.jsp
+
+#ITEM
+#Sistemas da UFC
+#SAVI
+#images/default.jpeg
+#O Sistema de Avaliação Institucional (SAVI) é utilizado para avaliarmos os professores. Periodicamente preenchemos neste sistema, um questionário com questões referentes ao seu desempenho profissional entre outras coisas.
+	Recentemente está sendo adotado outro sistema de avaliação. Ele fica localizado no SIGAA e tende a ser mais simples e rápido.
+	O SAVI pode ser acessado no link: https://sistemas.quixada.ufc.br/apps/savi/index.jsp
+
+
+#ITEM
+#Sistemas da UFC
+#Moodle
+#images/default.jpeg
+#O Moodle é um sistema utilizado por muitas instituições de ensino para informatizar os processos de aprendizagem. Muitos dos professores o utilizam como ferramenta para passarem trabalhos, marcar provas e publicarem avisos, entre outras coisas. Ele pode ser acessado em https://moodle.quixada.ufc.br/
+
+#ITEM
+#Métodos de Avaliação
+#IRA
+#images/default.jpeg
+#IRA Geral é calculado dentro do curso, ou seja, ele toma por base toda a galera do próprio curso. IRA Individual é o do aluno, calculado de acordo com o desempenho acadêmico dele. É possível visualisá-los em seu histórico no SIGAA.
+	A nota média do aluno, quando observada independente do curso, possui uma limitação para a utilização na comparação entre alunos de cursos diferentes. Para tanto, a UFC está utilizando o cálculo do Rendimento Acadêmico com a utilização do IRA Geral, que é o cálculo da nota média do aluno, normalizado por intermédio do seu respectivo curso. Esta normalização utiliza a média dos desempenhos (IRAm) e o desvio-padrão destes rendimentos (IRAdp) dos alunos ativos, para cada semestre letivo. O IRA Geral será dado pela seguinte fórmula:
+	IRA_GERAL = 6 + (IRA - IRAm) / IRAdp
+
+	O IRA Individual, que permanece utilizado na UFC, agora serve como base para o cálculo do IRA Geral. Sua fórmula possui o seguinte cálculo:
+
+	IRA_INDIVIDUAL = (1 - 0,5T/C) * (∑Pi*Ci*Ni) / (∑Pi*Ci) *1.000
+
+	Em que:
+	T = somatório de carga horária das disciplinas trancadas;
+	C = somatório de carga horária das disciplinas cursadas ou trancadas;
+	Ni = nota final da disciplina "i";
+	Ci = carga horária da disciplina "i";
+	Pi = período em que a disciplina "i" foi cursada, obedecendo à seguinte limitação: Pi = mínimo{6, semestre em que a disciplina foi cursada}. Nas disciplinas anuais, será considerado o semestre de início delas.
+	Complicado, né? Pois é. De qualquer forma, fique sempre de olho em seu IRA, ele será seu termômetro de desempenho. Sua meta principal, além de absorver conhecimento, será mantê-lo em alta ;)
+
+#ITEM
+#Métodos de Avaliação
+#Provas
+#images/default.jpeg
+#A valoração das provas depende inteiramente do professor. Podem ser ponderadas, serem complementadas com trabalhos, etc. As provas são realizadas em data e horário marcados pelo professor, o que chamamos de primeira chamada. No caso de o aluno faltar a esta data, poderá solicitar uma segunda realização da prova, a segunda chamada, que pode ser solicitada no SIPPA, na secretaria ou, em alguns casos, por email enviado ao próprio professor. É altamente recomendado que o aluno não falte à primeira chamada, pois a dificuldade da segunda prova é desumana. Existem relatos de pessoas que sobreviveram à segunda chamada, mas nada foi comprovado :p
+
+#ITEM
+#Métodos de Avaliação
+#Avaliação Final
+#images/default.jpeg
+#Se ao final do semestre a média do aluno for menor que 4, ele estará automaticamente reprovado. Se a nota for maior ou igual a 7, o phodão... quer dizer o aluno estará aprovado em conceito A. Caso a nota seja maior ou igual a 4 e menor que 7, o pobre moribundo terá que fazer a Avaliação Final (AF). Nela, o professor coloca todos os conteúdos que ele consegue encontrar na face da terra, desde problemas matemáticos sem resolução até física quântica. Se a nota desta prova for maior ou igual a 5, parabéns, você conseguiu aprovação em conceito B, se não, bem… até a próxima.
+
+#ITEM
+#Locais de Estudo,Infraestrutura
+#Salas de Aula
+#images/default.jpeg
+#O campus de Quixadá contém muitas salas de aula, em sua maioria equipadas com datashows.  As salas estão disponíveis aos alunos para fins de estudo, e podem ser utilizadas fora do horário de aula, desde que não estejam sendo utilizadas por algum professor para fins didáticos. Os alunos podem solicitar aos profissionais de limpeza que alguma sala seja aberta, desde que aqueles estejam em número suficiente.
+	As salas de aula ficam disponíveis durante todo o horário de funcionamento diário do Campus, ou seja, das 7h até as 22h.
+
+#ITEM
+#Institucional
+#Direção do Campus
+#images/default.jpeg
+#A Direção do Campus é composta pelo diretor, o Professor Davi Romero ( David com “d” no final é o David Sena ;p ), pela vice-diretora, a Professora Andréia Libório, e pela Secretaria da Direção, onde trabalham a Roberta (que chama todo mundo de Coração), a Simone (responsável principalmente pelos eventos que acontecem no campus),  o Jones (falem com ele quando precisar de ônibus!), o Everton e  o Glauco. Com o tempo vocês aprendem o nome de todos.
+
+#ITEM
+#Institucional
+#Coordenação do Curso
+#images/default.jpeg
+#A coordenação do curso de Sistemas de Informação é composta pelo coordenador, o professor Rafael Braga e pelo vice, o professor Alisson Barbosa. A Secretaria Acadêmica é uma fonte comum em todos os cursos, fazendo parte de todas as coordenações ao mesmo tempo. Mas claro que alguém especificamente cuida mais de um curso que dos outros, e a responsável por “cuidar” de SI  é a Ryanne a que usa óculos!.
+
+#ITEM
+#Infraestrutura
+#Secretaria Acadêmica
+#images/default.jpeg
+#A Secretaria Acadêmica é onde ficam os Secretários dos Cursos. Lá tem a Ryanne, do Curso de Sistemas; o Cidclay (just “Cid”), que cuida do curso de Ciência da Computação; A Natália, que fica com Redes e é quem mais cuida de éstagio; o André, o administrador da sala; e o Venício, que é o que está há mais tempo, cuida de Engenharia de Softwares e das Bolsas.
+	 Mas não se preocupe em decorar quem cuida de quê! Aqui nós temos uma secretaria unificada: todo mundo é um pouco responsável por tudo! Somente as questões mais específicas que são direcionadas a alguém, mas lá os Secretários te orientam. 
+	A única coisa que podemos dizer que é bem dividida é o caixa do R.U.!! Cada funcionário tem um horário de venda, de acordo com o horário de trabalho. Diariamente as vendas ocorrem de 09h às 19h. E não adianta chorar… E se alguém ficar devendo troco: seja bom de memória ou peça para anotar o nome! Os caixas são separados. Obs: traga moedas! Eles adoram “dinheiro múdo” e você não corre o risco de deixar parte dele lá! 
+	É na Secretaria Acadêmica que você irá fazer o pedido de Declarações na pasta do curso, e buscá-las depois que estiverem prontas e assinadas pela coordenação, na pasta azul em cima do balcão.
+	Em cima do balcão você encontra tudo! 
+	Incluindo um colecionador imenso com váaaarios formulários! Tudo no mundo tem um formulário - ok, quase tudo! - e 90% deles estão no colecionador. Peça ajuda aos Secretários para te ensinarem a localizar, é bastante prático!
+	No balcão da Secretaria tem também o Jornal da UFC, caneta, grampeador… Várias coisas que podem te auxiliar no dia a dia. Mas em uma coisa eles não ajudam: xerox e impressão! :/ Mas no centro, perto da Praça da parada, tem onde tirar. Enfim, os Secretários são legais e estarão sempre dispostos a ajudar!! :)
+
+
+#ITEM
+#Infraestrutura
+#Biblioteca
+#images/default.jpeg
+#A Biblioteca do Campus de Quixadá (BCQ) contém um considerável acervo, principalmente direcionado à tecnologia da informação. Seu acesso é livre e gratuito a todos os estudantes da Universidade. Para a reserva de livros, é necessário um cadastro simples. Seu horário de funcionamento fica grudado na porta, ou você pode perguntar aos funcionários de lá, eles são bem simpáticos!
+	Embora as pessoas que trabalham lá sejam bem legais, jamais faça barulho! Ou será expulso a pauladas. Tá bom, não é pra tanto, mas cuidado! Ah, e também não pode entrar com a mochila. Você deve deixá-la na entrada, naquelas estantes.
+	Com o tempo você será quase uma extensão daquele lugar. Serão muitas provas, trabalhos, bolsa, etc… No final você terá lido o equivalente à cinco bíblias daquelas bem grandes. Sério!
+	Para mais informações sobre o cadastro e o regulamento da BCQ, acesse o link: http://www.quixada.ufc.br/sobre-a-biblioteca.html ou http://bcqufc.blogspot.com.br/ 
+
+#ITEM
+#Infraestrutura
+#Laboratórios
+#images/default.jpeg
+#O Campus conta com vários laboratórios de informática. Seu acesso é livre e gratuito a qualquer estudante da Universidade, desde que o mesmo não esteja sendo utilizado por algum professor. Normalmente, ficam disponíveis durante todo o horário de funcionamento do Campus o Laboratório 1, localizado na parte superior do primeiro bloco, e o Laboratório de Redes, localizado na última sala da parte superior do segundo bloco.
+	São locais bem aconchegantes, mas em alguns, faz um frio desgraçado ;) !
+
+#ITEM
+#Infraestrutura
+#Restaurante Universitário
+#images/default.jpeg
+#O Restaurante Universitário (RU) tem seu acesso livre a qualquer estudante da Universidade. Seu funcionamento ocorre em dois horários principais: no almoço e no jantar. Em outros horários também ocorre a venda dos salgados da “tia do RU”. Para pagar a refeição, o estudante deve dispor de um ticket. Mais detalhes sobre os famosos ticket’s estão em seu respectivo tópico deste manual.
+	O almoço começa por volta das 11h30min e estende-se até as 2h. Recomenda-se que se coma rápido para não perder o ônibus. O jantar inicia-se por volta das 17h30min, estendendo-se até as 19h.
+	O nosso querido RU é mais que um simples refeitório. É nesse lugar que sentamos com os amigos e conversamos assuntos importantíssimos! Sim, conversamos muita bobagem também, mas só 90% do tempo. No restante, falamos sobre novas trollagens, ideias milionárias, e sobre… bem, o resto é segredo!
+
+#ITEM
+#Alimentação
+#Tickets
+#images/default.jpeg
+#Os ticket’s são utilizados como pagamento pelas refeições do RU e podem ser comprados na secretaria acadêmica, pelo valor de R$1,10. Estudantes que recebem auxílio podem obtê-lo de forma gratuita. Existem lendas sobre ticket’s verdes que dão direito a comida infinita, mas apenas professores podem obtê-los. 
+	O horário de venda dos ticket’s pode ser encontrado grudado no vidro da secretaria, é de 9h as 19h.
+
+#ITEM
+#Alimentação
+#Outros (IFCE, Cedro,...)
+#images/default.jpeg
+#O RU disponibiliza apenas almoço e jantar, então você tem que se virar com a merenda. Uma boa opção é ir para os nossos amigos de sofrimento… quer dizer estudos, IFCE,  onde podemos apreciar as belezas locais. A cantina de lá possui ótima comida e você pode se satisfazer com até R$3,00 (suco ou refri, e um pão italiano).
+	Existe também outra opção, não tão barata, porém muito gostosa: o Cedro, que fica a menos de 1 km do Campus. Como você pode chegar lá a pé, quando estiver com vontade de comer uma comida mais saborosa, apenas uma pequena caminhada o separa dela. Aconselhamos ir com amigos, apreciar a paisagem e relaxar um pouco.
+
+#ITEM
+#Infraestrutura
+#Bebedouros
+#images/default.jpeg
+#Atualmente, o Campus contém uma infinidade de bebedouros espalhados por todo lado. Em um primeiro momento, é comum que se estranhe o tamanho dos copos ou sua ausência. Isso se trata, porém, de uma medida ecológica para reduzir a utilização de copos descartáveis. É recomendável que cada estudante leve consigo uma garrafa de água, que pode ser enchida e utilizada durante o dia.
+
+#ITEM
+#Infraestrutura
+#Banheiros
+#images/default.jpeg
+#Cada bloco contém pelo menos 4 banheiros. O RU tem dois banheiros, sendo o feminino facilmente encontrado próximo às pias e o masculino, escondido ao lado. Nos blocos, os banheiros são localizados próximo às escadas.
+	Nossa universidade contém inúmeros banheiros, todos limpinhos e arrumados graças aos nossos queridos profissionais de limpeza. Seja consciente e cuide muito bem deste recurso tão importante.
+
+#ITEM
+#Disciplinas
+#Disciplinas Obrigatórias 
+#images/default.jpeg
+#As disciplinas obrigatórias, como o próprio nome já sugere (hehehe), são obrigatória! São também agrupadas de acordo com a  área de estudo chamada de Unidade Curricular.
+
+#ITEM
+#Disciplinas
+#Disciplinas Optativas
+#images/default.jpeg
+#São disciplinas de diversas áreas do curso que você pode escolher qual quer fazer. Geralmente, se escolhe disciplinas relacionas com assuntos que se deseja ter um maior conhecimento. No caso do calouro, isso não é possível… Todas as disciplinas do 1º semestre são obrigatórias.
+
+#ITEM
+#Disciplinas
+#Disciplinas Optativas-Livres
+#images/default.jpeg
+#São disciplinas que são ofertadas por outros cursos, ou ainda de uma forma mais simples, são as disciplinas que não fazem parte da integralização curricular do curso.
+
+#ITEM
+#Disciplinas
+#Estágio Supervisionado
+#images/default.jpeg
+#Dividido em Estágio I e II, são atividades obrigatórias. São importantes para lhe dar experiência prática, de postura profissional e de trabalho em equipe. Obtenha mais informações em:
+	http://www.si.quixada.ufc.br/index.php?option=com_content&view=article&id=65&Itemid=267
+
+#ITEM
+#Disciplinas
+#Trabalho de Conclusão de Curso (TCC)
+#images/default.jpeg
+#Dividido em TCC I e TCC II, é uma atividade que fornece ao estudante oportunidade de aprender a metodologia científica para o desenvolvimento de trabalhos acadêmicos. Obtenha mias informações em: http://www.si.quixada.ufc.br/index.php?option=com_content&view=article&id=68&Itemid=269
+
+#ITEM
+#Disciplinas
+#Atividades Complementares
+#images/default.jpeg
+#Atividades Complementares servem para fomentar a articulação entre teoria e prática e a complementação, por parte do estudante, dos saberes e habilidades necessárias à sua formação.
+	Atividades Complementares, como por exemplo: extensão, monitoria, iniciação científica, participação e organização de seminários, palestras, eventos esportivos, culturais etc.
+
+#ITEM
+#Disciplinas
+#Aprovação
+#images/default.jpeg
+#Existe aprovação “de primeira” nas disciplinas de matemática básica, pré-cálculo, FUP e em todas as outras. Calma, é só tirar acima de 7,0 na nota final! :D Bem simples. rsrs 
+
+#ITEM
+#Disciplinas
+#Reprovação
+#images/default.jpeg
+#Você pode reprovar por nota quantas vezes quiser (ou precisar, ou quantas vezes faltarem 0,2 décimos pra passar), observando apenas o tempo máximo para terminar o curso. Mas sempre que sentir dificuldades não hesite em pedir ajuda: aos colegas, aos monitores, aos professores. Estamos em um ambiente de aprendizado mútuo e cooperativo. :)
+	Em relação às reprovações por falta o negócio muda! Se discente reprovar 04 (quatro) vezes por falta a sua matrícula será bloqueada. Para desbloquear só indo na Secretaria Acadêmica ou na Coordenação dos Cursos (os professores normalmente querem saber o motivo!) para assinar o Termo de Ciência que se reprovar mais uma vez pelo mesmo motivo terá a matrícula definitivamente cancelada.
+
+#ITEM
+#Disciplinas
+#Trancamento
+#images/default.jpeg
+#Trancar significa deixar a matrícula em “stand by”. O aluno não quer sair do curso mas, por motivos “de força maior” precisa interromper. Mas o discente não pode trancar a qualquer tempo, tem que observar as datas no calendário acadêmico para solicitar na Secretaria. Há dois tipos de trancamento: total e parcial.
+
+#ITEM
+#Disciplinas
+#Trancamento Total 
+#images/default.jpeg
+#O Trancamento Total serve para o aluno ficar fora do curso totalmente, mas ainda mantendo o vínculo com a Universidade. Normalmente, o prazo máximo para trancamento é o último dia do período letivo, mas essas datas mudam! É importante deixar o Calendário Acadêmico na página inicial do navegador (antes mesmo do facebook!). 
+	Para realizá-lo tem  que preencher o Requerimento na Secretaria Acadêmica junto com comprovante do motivo pelo qual você deseja trancar. Os motivos aceitos são: doença (atestada pelo Serviço Médico da Universidade), mudança de domicílio, exercício de emprego (atestado pelo empregados), ou obrigação militar. Ressalta-se que passa pelo crivo da Coordenação para deferir ou não o pedido. Ou seja, não é algo simples! Você ocupa uma vaga muito deseja na UFC, muitos queriam estar aqui! Portanto, pense bem! 
+	Salienta-se que o aluno pode passar o máximo de 2 anos afastado da Universidade, ou seja: 04 semestres somando o Trancamento Total com a Matrícula Institucional (que equivale ao trancamento total, mas tem que ter terminado todas as disciplinas do primeiro ano e é realizado na época da matrícula direto no SIGAA).
+	CUIDADO: O aluno regular que não estiver cursando disciplina, por estar em situação de Trancamento Total ou de Matrícula Institucional, deverá, até o limite, renovar, a cada período letivo, seu vínculo com a Universidade, sob pena de cancelamento automático do mesmo.
+
+#ITEM
+#Disciplinas
+#Trancamento Parcial
+#images/default.jpeg
+#O trancamento total acontece quando o discente deseja trancar apenas parte das disciplinas cursadas, mas irá continuar fazendo as demais. Deve-se observar o mínimo de créditos que devem ser cumpridos durante o semestre e o limite temporal para a conclusão do curso. Diferente do Trancamento Total, este tipo tem data inicial e final definida no Calendário Acadêmico, que pode sofrer alterações.
+
+#ITEM
+#Institucional
+#Regimento Geral da UFC
+#images/default.jpeg
+#http://ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf
+
+#ITEM
+#Transporte
+#Transporte Público
+#images/default.jpeg
+#Para os bixos que moram fora de Quixadá, além de escolherem uma nova moradia, é importante obterem informações sobre como realizar o trajeto até a cidade.
+	A forma mais usual é a utilização de ônibus. Quixadá conta com um terminal rodoviário localizado na Avenida Plácido Castelo - 1559, que facilita a locomoção de muitos alunos que têm que fazer, diariamente, o trajeto de suas cidades até Quixadá.
+	O Campus fica localizado um pouco distante do centro da cidade, por isso, contamos com três ônibus que levam os alunos até lá.
+	Cada ônibus leva alunos da UFC e, também, do IFCE, então é normal os ônibus estarem um “pouco” lotados. Se você der sorte, pode até conseguir uma cadeira para sentar.
+
+#ITEM
+#Transporte
+#Transporte Particular
+#images/default.jpeg
+#Caso opte por ir de carro, a UFC dispõe de um estacionamento sem cobertura, onde você pode deixar seu lindo carro se bronzeando no sol de Quixadá.
+	Mas existem nossos grandes companheiros de apertos, os Moto-Taxistas. Caso perca algum ônibus e fique desesperado porque vai perder aquela prova, não precisa se preocupar: se olhar para a esquina mais próxima, eles estarão lá; não precisa nem chamar, pois eles conseguem ler sua mente e logo estarão assobiando para você. Mas não se iluda, o preço é bem caro. Viagens Centro-Centro em Quixadá custam cerca de R$ 3,00; já Centro-Cedro custam R$ 5,00. Igual à sua ex-mulher, primeiro eles te seduzem, depois eles levam todo o seu dinheiro.
+
+#ITEM
+#Transporte
+#Caronas
+#images/default.jpeg
+#Existe também uma forma barata e divertida de viajar, que economiza o tempo e dinheiro gastos na viagem: juntam-se alguns estudantes no mesmo carro e divide-se as despesas. Além disso, existe sempre a opção de pegar carona. Claro que não faltarão aqueles professores trolls que te deixarão no vácuo, mas leve na esportiva e lembre-se que sempre haverá o carro-do-coco pra quebrar um galho.
+
+#ITEM
+#Institucional
+#Calendário Acadêmico
+#images/default.jpeg
+#O Calendário Acadêmico que o Campus segue é formulado em Fortaleza, e seguido por toda a Universidade. Deve estar sempre a mão, pois é através dele que temos as datas de trancamento, de transferência de cursos, matrículas, colação etc. Você pode encontrá-lo em http://www.ufc.br/calendario-universitario-2015 .
+Mas Cuidado: o Calendário sofre alterações sem prévio aviso! É bom ficar sempre de olho.
+
+#ITEM
+#Experiências dos Veteranos
+#Mandamentos do Bixo
+#images/default.jpeg
+#1º: O único direito do bixo é de não ter direitos;
+	2º: Veterano tem SEMPRE razão;
+	3º: Todo bixo só deve se dirigir aos mestres veteranos de maneira respeitável, do tipo: SIM MESTRE!
+	4º: Nenhum bixo tem o direito de conversar e/ou olhar para bixas (muito menos para veteranas);
+	5º: Bixas e Bixos não podem falar olhar e/ou ter qualquer outro tipo de relações com VETERANOS e VETERANAS;
+	6º: Rebeliões de bixos costumam ser facilmente abafadas, assim sendo, não se rebelem, caso contrário as consequências podem ser desastrosas!!!
+	7º: Jamais diga que um veterano se phudeu em determinada matéria. O que aconteceu foi que "Ele abandonou a matéria porque achava ela pouco estimulante".
+	8º: O veterano tem sempre razão e as notas dos veteranos são sempre maiores que as suas.
+	9º: Para os casos não abrangidos por esse manual, a decisão final fica por conta do veterano, sempre lembrando o segundo mandamento.
+	10º: Nunca, jamais, em hipótese alguma diga não a um veterano.
+
+#ITEM
+#Bolsas e Auxílios
+#Auxilio Moradia
+#images/default.jpeg
+#Muitos alunos vem de longe morar na cidade de quixadá em busca de algum curso na UFC, como a universidade não possui residencia universitária na cidade(diferentemente da capital) temos o tão desejado Auxilio Moradia, o auxilio moradia busca contemplar os alunos que não moram em quixadá e não tenha condições financeiras para manter-se na cidade e assim continuar no curso.
+	O Auxilio é em media de R$ 490,00 mensais, pagos “sempre” no inicio de cada mês, além da grana, os alunos que recebem esse auxilio recebem também dois tickets gratuitos diariamente para o Restaurante Universitário. Esse auxilio dura até a data prevista para a conclusão do seu curso, deste que você nunca, repito NUNCA reprove nenhuma disciplina por falta e sempre mantenha sua residencia em quixadá atualizada na secretária do campus.
+	O processo para seleção dos alunos que receberam o auxílio acontece sempre no inicio de cada ano e é concorrido a tapa.
+	A seleção é basicamente três etapas:
+	1. Comprovação dos Documentos Fornecido	
+	2. Visita 	a residencia de origem do 	aluno
+	3. Entrevista realizada com o aluno
+	Em media são cerca de 30 vagas por ano para o auxilio, sendo que, caso algum aluno perca o auxilio seja por algum dos fatores já citados aqui, essa vaga é ocupada por aqueles que não conseguiram entrar da primeira vez, para participar da seleção, é necessário preencher alguns requisitos(morar longe e ser pobre).
+	Veja mais sobre essa e outras bolsas em: http://www.prae.ufc.br/
+
+
+#ITEM
+#Bolsas e Auxílios
+#Iniciação Acadêmica
+#images/default.jpeg
+#A Universidade nos da várias possibilidades de conseguir uma bolsa. Uma delas chama-se de iniciação acadêmica, tem por objetivo os alunos que estão no inicio do curso e possuam algum problema financeiro que o impeça de continuar no mesmo. O bolsista de iniciação acadêmica tem que prestar serviço de 20 horas semanais à Universidade para poder prosseguir na bolsa além é claro de seu rendimento nas disciplinas não diminuam depois de ter entrado na bolsa, essa bolsa tem duração em média de 8 a 10 meses, podendo participar alunos dos 1º a 3º semestres.
+	1.Verificação dos Documentos	
+	2.Entrevista com o aluno
+	Veja mais sobre essa e outras bolsas em: http://www.prae.ufc.br/
+
+
+#ITEM
+#Bolsas e Auxílios
+#Iniciação Científica
+#images/default.jpeg
+#A Iniciação Cientifica é um tempo para o aluno de graduação (você, no caso) ter uma experiência acadêmica mais séria, sentir um pouco como é o clima de pesquisa. 	Interessou? O que fazer? Calma, você mal entrou na Universidade. Geralmente, o que se faz é conversar com o professor da área com a qual você se identifica mais (criptografia, teoria da computação, processamento de imagens, inteligência artificial etc.) e ver se ele está desenvolvendo algum projeto interessante naquela área, ou propor para ele alguma ideia sua mesmo. No primeiro semestre geralmente é bem mais difícil achar algum professor da área que você se interessa, aliás, é bem difícil saber a área com a qual você se identifica, pois você mal começou o curso e não conhece muito do que se estuda em Computação, muito menos os professores. Mas tenha paciência, agora parece tudo muito complicado, mas com o tempo as coisas vão ficando mais simples. Se você realmente tiver uma sede insaciável de conhecer o meio da pesquisa, procure algum professor, ele pode te orientar a respeito.
+
+#ITEM
+#Bolsas e Auxílios
+#PET
+#images/default.jpeg
+#O Programa de Educação Tutorial é um programa que tem por objetivo, ajudar alunos de graduação a adquirirem experiencias em diversas áreas do conhecimento e não apenas as de sua formação, com isso ele busca evitar que alunos se especializem em uma única área antes de se formarem e possam após a formatura serem aptos a escolherem entre diversas áreas para sua atuação como profissional; para obter isso, tal programa dispõe de três atividades básicas que são o ensino, a pesquisa e a extensão, cada uma sendo executada de forma que todos os seus atuantes trabalhem em grupo e também de forma individual, trocando saberes e experiencias, valores esses que são de enorme importâncias para a atuação de um bom profissional no mercado de trabalho.
+	Existem dois desses programas na universidade, o PET Tecnologia da Informação e o PET Sistemas de Informação.
+	PET Tecnologia da Informação
+	O primeiro conta com 12 bolsistas e um Tutor, juntos desenvolvem projetos que buscam propiciar a troca de saberes entre a universidade e as comunidades populares , criando assim uma aprendizagem mutua entre todos.
+	Os principais objetivos do PET - Tecnologia da Informação são:
+	1. Ampliar a relação entre a universidade e os moradores de espaços populares, assim como com suas instituições;
+	2. Aprofundar a formação dos jovens universitários de origem popular como pesquisadores e extensionistas, visando sua intervenção qualificada em diferentes espaços sociais, em particular, na universidade e em comunidades populares;
+	3. Estimular a formação de novas lideranças capazes de articular competência acadêmica com compromisso social.
+
+	As vagas para participar do programa abre conforme os atuais bolsistas saiam, ou seja, quando algum bolsista dos 12 desistem ou se forma, abre se uma vaga. O processo de seleção ocorre através de uma entrevista e da confirmação dos documentos apresentados. Nós documentos apresentados, é solicidado uma carta onde o candidato descreve o que ele entende sobre o programar, como ele define a sua comunidade de origem e um projeto que o aluno pretenda executar enquanto bolsista.
+
+	PET Sistemas de Informação
+	Já o segundo é formado por 13 alunos bolsistas(sendo 1 não-remunerado) que realizam as atividades sendo orientados juntamente por um tutor e um cotutor. Funciona como uma ótima oportunidade para alunos do curso de Sistemas de Informação que estejam interessados em contribuir com idéias que podem ser aplicadas em diversos projetos e/ou pesquisas, tanto para o melhor aproveitamento do curso em toda comunidade acadêmica, quanto nas comunidades da região que estão localizadas próximas ao campus Quixadá, zelando pela qualidade acadêmica, além de ter que publicar ou apresentar um trabalho científico por ano. Sempre valorizando o trabalho em equipe, proporcionando aos alunos que nele participam maiores experiências e conhecimentos que venham a contribuir na formação pessoal e profissional, comprometimento com o trabalho, adquirindo um espírito de liderança e de trabalho em equipe, importantes habilidades que devem ser adquiridas por um profissional que quer ser bem visado hoje em dia no mercado de trabalho.
+	Primeiro requisito para se candidatar a uma bolsa do PET – SI é ter um excelente rendimento acadêmico e mantê-lo enquanto estiver participando do programa. Os editais para seleção de alunos para participarem do PET – SI são divulgados conformem vão surgindo vagas, das 12 possíveis. O processo de seleção ocorre através de uma entrevista onde irão ser apresentadas três propostas de projetos dos quais o aluno pretende desenvolver enquanto for bolsista, abrangendo as seguintes áreas: pesquisa, ensino e extensão. Além disso, deverão ser apresentados os documentos conforme forem pedidos no edital publicado.
+
+#ITEM
+#Bolsas e Auxílios
+#Ciência Sem Fronteiras
+#images/default.jpeg
+#Fique de olho também no programa Ciência sem Fronteiras, do governo federal, distribui bolsas para instituições de excelência dos Estados Unidos, Alemanha, Itália, Reino Unido, entre outros.
+	“Mas vale a pena? Poxa, vou atrasar meu curso, ficarei deslocado de turma, vou ficar em um país estranho, para quê? Acho que não vale a pena...” Vamos começar pelos motivos profissionais: ter no currículo que você fala uma língua estrangeira fluentemente devido à sua imersão no país é algo muito valorizado pelas empresas, além do fato que o pessoal do RH vai ver que você tem capacidade de se virar sozinho, uma vez que não é tão óbvio sair do país e recomeçar sua vida fora. Você não atrasará tanto seu curso, pois a UFC conta com um sistema de equivalências de matérias, e se você escolher bem pode fazer matérias que serão convalidadas na UFC. Agora, o que realmente é importante: você está na faculdade, está na hora de deixar o colo da mamãe e partir para o mundo! A experiência de conhecer outras culturas, criar laços de amizade internacionais, viajar por terras desconhecidas não tem preço! Pense que é no seu tempo de facul que terá oportunidade de fazer uma aventura destas, não desperdice.
+	Se você abriu um sorriso e pensa que está preparado para sair do país, comece a estudar, bixo! Não que ter uma boa nota seja a única forma de conseguir uma vaga em uma bolsa de estudos, mas com certeza é a mais fácil. Busque atirar em todas as frentes, mantenha seu IRA num bom nível. Boa Sorte!
+
+
+#ITEM
+#Bolsas e Auxílios,Estudo
+#Monitorias
+#images/default.jpeg
+#Para aqueles bixos que tem dificuldades em entenderem na primeira vez o que os professores ensinam, existe as monitorias. São designados monitores para as disciplinas que apresentam níveis de reprovação elevados, o principal objetivo é tirar as inúmeras, complexas, desordenadas e macabras duvidas que habitam na cabeça de um bixo. Uma boa dica para vocês bixos: quando tiverem alguma duvida, vá para o monitor ou para o professor, nós já vimos muitos casos de alunos chorando nos corredores minutos antes das provas porque não conseguiram entender determinados assuntos. Os monitores recebem uma boa grana para tirar as duvidas de vocês, então os procurem, nem que sejam apenas para não deixar eles sem nada pra fazer.
+
+#ITEM
+#Bolsas e Auxílios,Estudo
+#Programa de Aprendizagem em Células Cooperativas (PACCE)
+#images/default.jpeg
+#O Pacce Quixadá realiza de forma periódica atividades e eventos voltados aos alunos do Campus Quixadá e da sociedade em geral. Somos 20 bolsistas e 2 professores ( David Sena e Valdemir Queiroz).
+	Como exemplo dessas atividades temos: Células de Aprendizagem Cooperativa Semanais nos mais diversos assuntos como Segurança, Xadrez, Artes, Arduíno, Web, Inglês, Italiano, FUP, Cálculo, etc; Atividades Esportivas como Subida da Galinha Choca, PaintBall, Poker, Yu-Gi-Oh, etc, além de Atividades Recreativas como carimba e rouba bandeira; Atividades de Extensão como Programação nas Escolas, Palestras e Mesas Redondas; Atividades de desenvolvimento de sistemas WEB e Android para gestão Interna Quixadá e Fortaleza.
+
+#ITEM
+#Lazer
+#Visita ao Cedro
+#images/default.jpeg
+#Aqui na universidade temos muito sofrimento... digo, lazer, a nossa principal atividade para se divertir, é visitar o cedro. O Açude Cedro fica a menos de 1km do campus, por isso, dar pra chegar lá facilmente caminhando, gostamos de ir para lá no finalzinho da tarde para ver o sol se pôr, alguma vezes vezes a gente chegar até a levar alguém para nós fazer companhia. Em muitos acontecimentos especiais(passar com conceito A em uma disciplina), gostamos de ir comemorar lá, um almoço com os amigos pra relaxar um pouco é sempre bom.
+
+#ITEM
+#Lazer
+#Passeios Turísticos nas Formações Rochosas
+#images/default.jpeg
+#Se você como todo bicho gosta de se aventurar em matas fechadas, uma boa opção é escalar algumas das inúmeras rochas que se encontram no território de quixadá, as rochas de nossa preferência são: Pedra do Cruzeiro no Cendro de Quixadá, A Pedra da Galinha Choca próxima do Cedro e A Rocha que se encontrar atrás da UFC, dessa ultima é possível ter uma vista perfeita do campus, mas lembrando que é sempre bom ir com algum veterano responsável, muitos professores costumam levar grupos de alunos para algum desses passeios, agora não sabemos se é com intenção de deixar os alunos mais relaxados ou de no descuido de alguém, jogá-lo lá de cima pra se divertir, mas saiba que não há registros de nenhum acidente ocorrido,”Não há registros...”.
+
+#ITEM
+#Experiências dos Veteranos
+#Como conseguir moradia
+#images/default.jpeg
+#Essa é talvez, uma das maiores dúvidas daqueles alunos que vem de fora morar em quixadá. Encontrar um boa moradia é algo muito importante e que põe muito medo nos corações dos bixos e de seus pais.
+	Felizmente, em Quixadá, existe uma opção bastante prática para os calouros. Em sua maioria, eles se reúnem em grupos de 3 a ou 5 pessoas e dividem aluguel. Essa é uma alternativa bastante viável, e não é tão difícil encontrar colegas de apart. Existem por exemplo, o grupo AP's/CASAS para ESTUDANTES QUIXADÁ, destinados à bixos que buscam moradia em quixadá. 
+	O link do grupo é: https://www.facebook.com/groups/458245787608998/
+
+
+#ITEM
+#Experiências dos Veteranos
+#Oração Pre-Prova
+#images/default.jpeg
+#Bixo, esta é a sua oração, deves decorar e recitá-la sempre antes de uma prova para dar-lhe sorte. Em inglês, é claro, para que desde já pare de depender da língua portuguesa.
+	Oração do Bixo
+	Our Google which art in cyberspace,
+	Hallowed be thy domain.
+	Thy search to come,
+	Thy results be done,
+	On my computer as it is in the WWW.
+	Give us this search our daily results.
+	Forgive us our spam, as those that have
+	spammed up against us.
+	And lead us not into infected sites,
+	But deliver us from Trojans.
+	For thine search engine is the greatest,
+	and the power,
+	and the glory,
+	For search after search.
+	Amen
+
+
+#ITEM
+#Experiências dos Veteranos
+#Porque estou estudando isso?
+#images/default.jpeg
+#O ensino médio acabou, você finalmente está livre de todas as inutilidades, como química orgânica e separação silábica de verbos parnasianos, só vai ver coisas relevantes para a profissão, e... Pimba! Ética, Direito e Legislação. Pode, Arnaldo?
+	Primeiro, você precisa saber que a Universidade não é um curso técnico. A ideia não é só te dar capacitação profissional, mas sim formar pessoas melhores. Para que um programador precisa de contabilidade? Para nada, mas uma pessoa (de exatas pelo menos) precisa ter uma noção disso. Outro problema: o que exatamente é “relevante para a sua profissão”? A computação é uma área muito vasta, e a graduação é bem generalista, para te dar base para escolher. Por exemplo, vai ter gente que nunca mais vai usar GA/Algelin, mas quem for para a área de computação gráfica vai comer matriz no café da manhã. Quem garante que no meio do curso você não decida ir para essa área? Ou ainda, que no seu emprego não te joguem um problema desse tipo? Se você continuar na Universidade, na pós você só terá matérias da sua área, já que você já sabe o suficiente pra dizer que área é essa. Mas ainda falta muito chão até lá...
+
+
+
+
+
+
+	
