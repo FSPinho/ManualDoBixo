@@ -24,32 +24,44 @@ public class CardListViewAdapter extends RecyclerView.Adapter<CardListViewAdapte
     private OnCardClickListener onCardClickListener = null;
 
     public CardListViewAdapter(Context context) {
+
         this.context = context;
         items = new ArrayList<>();
+
     }
 
     public void setOnCardClickListener(OnCardClickListener onCardClickListener) {
+
         this.onCardClickListener = onCardClickListener;
+
     }
 
     public void addCard(Card card) {
+
         items.add(card);
         notifyItemInserted(items.size() - 1);
+
     }
 
     public void addCard(Card card, int index) {
+
         items.add(index, card);
         notifyItemInserted(index);
+
     }
 
     public void removeItem(int index) {
+
         items.remove(index);
         notifyItemRemoved(index);
+
     }
 
     public void removeAllItems() {
+
         items.clear();
         notifyDataSetChanged();
+
     }
 
     @Override
@@ -59,34 +71,59 @@ public class CardListViewAdapter extends RecyclerView.Adapter<CardListViewAdapte
         View view = inflater.inflate(R.layout.card_large_image, null);
 
         return new CardViewHolder(view);
+
     }
 
     @Override
-    public void onBindViewHolder(CardViewHolder holder, int position) {
+    public void onBindViewHolder(final CardViewHolder holder, int position) {
 
         final Card card = items.get(position);
 
-        Uri uri = Uri.parse("asset:///" + card.getImage());
-        holder.image.setImageURI(uri);
+        if(!card.getImage().equals("none")) {
+
+            Uri uri = Uri.parse(card.getImage());
+            holder.image.setVisibility(View.VISIBLE);
+            holder.image.setImageURI(uri);
+
+        } else {
+
+            holder.image.setVisibility(View.GONE);
+
+        }
 
         holder.title.setText(card.getTitle());
-        holder.subtitle.setText(card.getSubtitle());
+
+        if(card.getSubtitle().isEmpty()) {
+
+            holder.subtitle.setVisibility(View.GONE);
+
+        } else {
+
+            holder.subtitle.setVisibility(View.VISIBLE);
+            holder.subtitle.setText(card.getSubtitle());
+
+        }
 
         holder.layout.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View v) {
+
                 if(onCardClickListener != null)
+
                     onCardClickListener.onCardClicked(v, card);
+
             }
+
         });
-
-
 
     }
 
     @Override
     public int getItemCount() {
+
         return items.size();
+
     }
 
     public class CardViewHolder extends RecyclerView.ViewHolder {
@@ -97,17 +134,22 @@ public class CardListViewAdapter extends RecyclerView.Adapter<CardListViewAdapte
         public View layout;
 
         public CardViewHolder(View itemView) {
+
             super(itemView);
 
             image = (SimpleDraweeView) itemView.findViewById(R.id.mb_card_image);
             title = (TextView) itemView.findViewById(R.id.mb_card_title);
             subtitle = (TextView) itemView.findViewById(R.id.mb_card_subtitle);
             layout = itemView.findViewById(R.id.mb_card_layout);
+
         }
+
     }
 
     public interface OnCardClickListener<T> {
+
         void onCardClicked(View view, Card<T> card);
+
     }
 
 }

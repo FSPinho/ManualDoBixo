@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Manual do Bixo</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_item">ItemActivity</string>
+    <string name="mb_app_name">Manual do Bixo</string>
+    <string name="mb_search_results_for">Resultados para:</string>
 </resources>

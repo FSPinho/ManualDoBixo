@@ -19,6 +19,12 @@ android {
     }
 }
 
+repositories {
+    maven {
+        url "https://oss.sonatype.org/content/repositories/snapshots"
+    }
+}
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
@@ -28,13 +34,22 @@ dependencies {
     compile 'com.android.support:cardview-v7:23.1.1'
     compile 'com.android.support:recyclerview-v7:23.1.1'
 
+    // Image loading
     compile 'com.facebook.fresco:fresco:0.9.0+'
 
+    // Database manager
     compile 'com.github.satyan:sugar:1.4'
 
-    compile 'com.github.bluejamesbond:textjustify-android:2.1.1'
+    // SearchView library
+    compile 'com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT'
 
-    compile 'com.nineoldandroids:library:2.4.0'
-    compile 'com.daimajia.easing:library:1.0.1@aar'
-    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
+    // HTTP client
+    compile 'com.squareup.retrofit2:retrofit:2.0.0-beta4'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
+
+    // compile 'com.github.bluejamesbond:textjustify-android:2.1.1'
+
+    // compile 'com.nineoldandroids:library:2.4.0'
+    // compile 'com.daimajia.easing:library:1.0.1@aar'
+    // compile 'com.daimajia.androidanimations:library:1.1.3@aar'
 }

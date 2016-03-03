@@ -16,7 +16,7 @@ Crescemos acostumados com a "lei do menor esforço". Por que fazer o melhor, se 
 Instalações: Universidade Federal do Cerá (UFC), Instituto Federal do Ceará (IF), Restaurante Universitário (RU), Laboratórios (Lab), Biblioteca (BCQ).
 Cursos: Engenharia de Software (ES), Redes de Computadores (Redes), Sistemas de Informação (SI), Ciência da Computação (CC), Engenharia de Computação (EC) e Design Digital (Design).
 Disciplinas: Fundamentos de Programação (FUP), Programação Orientada a Objetos (POO), Introdução à Ciência da Computação e Sistemas de Informação (ICCSI), Teoria Geral da Administração (TGA), Teoria Geral dos Sistemas (TGS), Banco de Dados (BD), Projeto e Análise de Algorítmos (PAA), entre outros.
-Não se preocupe muito em decorá-las, isso acontecerá naturalmente, e cuidado com a (AF) Avaliação Final. Mas, em hipótese alguma, chame o RU de “restaurante” ou o Lab de “laboratório de informática”, ou você será severamente zoado. 
+Não se preocupe muito em decorá-las, isso acontecerá naturalmente, e cuidado com a (AF) Avaliação Final. Mas, em hipótese alguma, chame o RU de "restaurante" ou o Lab de "laboratório de informática", ou você será severamente zoado. 
 #images/default.jpeg
 
 #ITEM
@@ -30,8 +30,8 @@ Independente de como aconteça, a criação de laços é algo natural e precioso
 #ITEM
 #Ensino Médio vs Faculdade
 #No Ensino Fundamental, a cada ano ficávamos imaginando o quão difícil seria a próxima série. Mas, no final, todas eram iguais. Quando chegamos ao Ensino Médio não foi diferente, continuamos com aquela rotina de estudos desorganizada, procrastinando e sendo desleixados como de costume. Para a maioria dos calouros, nos períodos no ensino fundamental e médio, cada disciplina é um degrau a ser superado, mas, o mais alto de todos separa o terceiro ano do ensino médio do primeiro semestre na faculdade. 
-Um dos primeiros sentimentos que preenchem os corações dos calouros é o de “não vou acompanhar a turma”, o que faz eles prestarem uma atenção desumana nas primeiras aulas. Mas, com o tempo, a maioria acaba se desleixando novamente e desorganizando sua rotina de estudos. A grande diferença é que, ao contrário de como ocorria antes, no ensino superior “o negócio é mais em baixo”. Se o aluno não estudar, é pouco provável que sobreviva ao semestre. Os professores são tratores com rodas tamanho extra, passando por cima de você sem qualquer piedade.
-Mas, apesar de tudo, é possível! O pré-requisito mais importante para um bom desempenho na universidade é o mesmo que nos faltou na infância e adolescência: o simples esforço pessoal, o qual pode ser convertido em estudo, participação nas atividades do campus, responsabilidade, etc. Além disso, a universidade proporciona algo inestimável, ela “amplia nosso mundo”. Conhecemos novas pessoas, estilos de vida, lugares, criamos novos objetivos e muito mais. Este é um dos únicos lugares onde você pode aprender e criar novas coisas e colocá-las em prática com a confiança de estar fazendo um bom trabalho, e com tranquilidade para poder errar. 
+Um dos primeiros sentimentos que preenchem os corações dos calouros é o de "não vou acompanhar a turma", o que faz eles prestarem uma atenção desumana nas primeiras aulas. Mas, com o tempo, a maioria acaba se desleixando novamente e desorganizando sua rotina de estudos. A grande diferença é que, ao contrário de como ocorria antes, no ensino superior "o negócio é mais em baixo". Se o aluno não estudar, é pouco provável que sobreviva ao semestre. Os professores são tratores com rodas tamanho extra, passando por cima de você sem qualquer piedade.
+Mas, apesar de tudo, é possível! O pré-requisito mais importante para um bom desempenho na universidade é o mesmo que nos faltou na infância e adolescência: o simples esforço pessoal, o qual pode ser convertido em estudo, participação nas atividades do campus, responsabilidade, etc. Além disso, a universidade proporciona algo inestimável, ela "amplia nosso mundo". Conhecemos novas pessoas, estilos de vida, lugares, criamos novos objetivos e muito mais. Este é um dos únicos lugares onde você pode aprender e criar novas coisas e colocá-las em prática com a confiança de estar fazendo um bom trabalho, e com tranquilidade para poder errar. 
 #images/default.jpeg
 
 #ITEM
@@ -45,7 +45,7 @@ Sistemas Operacionais - Um dos motivos que faz a maioria ingressar nos cursos de
 #Disciplinas Iniciais
 #Fundamentos de Programação - Dificuldade: Why me? Why???
 Uma das disciplinas que mais reprovam em toda a universidade, é nela em que você se toca que realmente está numa federal. O que irá aprender nessa disciplina é basicamente tudo que precisará para começar a programar em alguma linguagem, nela você aprende desde fazer um programa que calcula o fatorial de um numero até dependendo do professor um programa capaz de descobrir a senha do facebook do(a) seu(sua) namorado(a). Então estude bastante e faça muitas, mais muitas listas de exercícios. Caso apresente alguma dificuldade, essa disciplina costuma ter 4 monitores pra tirar suas duvidas, então os procure sempre(dica: professores sempre costumam checar quem vai à monitoria, acredite: isso ajuda muito quando precisar dos míseros 0,00001 pra passar). Pré-Calculo - Dificuldade: Não Culpar o Governo
-Essa é a matéria que você pensa: “Que merda de governo que temos! Não entramos capacitados o suficiente na universidade e somos obrigados a aprender coisas básicas de matemática para a universidade ter o percentual mais baixo de reprovação em calculo I”. Sim, é basicamente isso. Matéria simples para alguns e difícil para outros. Matéria de Ensino Médio.
+Essa é a matéria que você pensa: "Que merda de governo que temos! Não entramos capacitados o suficiente na universidade e somos obrigados a aprender coisas básicas de matemática para a universidade ter o percentual mais baixo de reprovação em calculo I". Sim, é basicamente isso. Matéria simples para alguns e difícil para outros. Matéria de Ensino Médio.
 A dica é pegar as listas do semestre anterior, e se possível provas (coisa rara de se conseguir). E fazer muitos, mas muitos exercícios. Introdução e Ciência da Computação - Dificuldade: Manter-se Acordado
 Slide é vida. Essa matéria abordará de forma geral toda a história da computação, desde nosso grande amigo e pai da computação Alan Turing até umas continhas binárias FD... , mas também aprenderão quais são as melhores maneiras de manter-se acordado ou posições que não fiquem com dor nas costas nos cochilos acidentais. Dica: cafezinho da cantina (0,50 centavos).
 Mas não pense que a prova é moleza não, algumas vezes ela costuma ser múltipla escolha (não goste disso, só ferra sua vida). Uma dica é focar nas continhas binárias!
@@ -105,7 +105,7 @@ Amen
 #ITEM
 #Porque estou estudando isso?
 #O ensino médio acabou, você finalmente está livre de todas as inutilidades, como química orgânica e separação silábica de verbos parnasianos, só vai ver coisas relevantes para a profissão, e... Pimba! Ética, Direito e Legislação. Pode, Arnaldo?
-Primeiro, você precisa saber que a Universidade não é um curso técnico. A ideia não é só te dar capacitação profissional, mas sim formar pessoas melhores. Para que um programador precisa de contabilidade? Para nada, mas uma pessoa (de exatas pelo menos) precisa ter uma noção disso. Outro problema: o que exatamente é “relevante para a sua profissão”? A computação é uma área muito vasta, e a graduação é bem generalista, para te dar base para escolher. Por exemplo, vai ter gente que nunca mais vai usar GA/Algelin, mas quem for para a área de computação gráfica vai comer matriz no café da manhã. Quem garante que no meio do curso você não decida ir para essa área? Ou ainda, que no seu emprego não te joguem um problema desse tipo? Se você continuar na Universidade, na pós você só terá matérias da sua área, já que você já sabe o suficiente pra dizer que área é essa. Mas ainda falta muito chão até lá... 
+Primeiro, você precisa saber que a Universidade não é um curso técnico. A ideia não é só te dar capacitação profissional, mas sim formar pessoas melhores. Para que um programador precisa de contabilidade? Para nada, mas uma pessoa (de exatas pelo menos) precisa ter uma noção disso. Outro problema: o que exatamente é "relevante para a sua profissão"? A computação é uma área muito vasta, e a graduação é bem generalista, para te dar base para escolher. Por exemplo, vai ter gente que nunca mais vai usar GA/Algelin, mas quem for para a área de computação gráfica vai comer matriz no café da manhã. Quem garante que no meio do curso você não decida ir para essa área? Ou ainda, que no seu emprego não te joguem um problema desse tipo? Se você continuar na Universidade, na pós você só terá matérias da sua área, já que você já sabe o suficiente pra dizer que área é essa. Mas ainda falta muito chão até lá... 
 #images/default.jpeg
 
 #TOPIC
@@ -114,7 +114,7 @@ Primeiro, você precisa saber que a Universidade não é um curso técnico. A id
 
 #ITEM
 #As Principais Figuras da UFC!
-#“Na sala de aula vocês tem um grande problema! Eu tenho 45!”.
+#"Na sala de aula vocês tem um grande problema! Eu tenho 45!".
 Nos primeiros semestres da faculdade, conhecemos pessoas incríveis e estranhas. Amigos que são gênios, outros meio malucos, outros que são as duas coisas ao mesmo tempo. Mas dentre as pessoas mais curiosas, estão os professores.
 Existem os mais sérios, os brincalhões, aqueles que arrancam seu couro, entre outros. Poderíamos falar de muitos, mas descreveremos aqui alguns dos que mais nos chamaram atenção.
 Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um email com seu texto para felipe76857685@gmail.com, incluindo o nome complento e email do professor homenageado ;)
@@ -132,27 +132,27 @@ Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um em
 
 #ITEM
 #Ticiana Linhares Coelho da Silva
-#“A Ticiana é um daqueles exemplos de que mulher pode sim ser uma profissional completa na Computação. Até o presente momento não tive a oportunidade de cursar uma disciplina com ela, mas tive a grande chance de ser orientanda dela durante um ano de bolsa, além de vê-la ministrando palestras e oficinas. Durante o período da bolsa, pude notá-la como uma pessoa forte e decidida em suas ações. Sempre exigente, mas também flexível para entender e ajudar seus alunos. Gosta de trabalho bem feito, nos conformes e feito de forma honesta. Reconhece e honra os alunos quando estes alcançam suas metas e ganham destaque. É elegante, delicada e muitíssimo competente. Sem medo algum, digo que ela é o exemplo de profissional no qual me espelho pra tentar ser parecida um dia. À você professora, meus sinceros agradecimentos por ter me ensinado tantas lições e por ter me mostrado o quão fascinante é o mundo do Data Mining.” - Hinessa Caminha. 
+#"A Ticiana é um daqueles exemplos de que mulher pode sim ser uma profissional completa na Computação. Até o presente momento não tive a oportunidade de cursar uma disciplina com ela, mas tive a grande chance de ser orientanda dela durante um ano de bolsa, além de vê-la ministrando palestras e oficinas. Durante o período da bolsa, pude notá-la como uma pessoa forte e decidida em suas ações. Sempre exigente, mas também flexível para entender e ajudar seus alunos. Gosta de trabalho bem feito, nos conformes e feito de forma honesta. Reconhece e honra os alunos quando estes alcançam suas metas e ganham destaque. É elegante, delicada e muitíssimo competente. Sem medo algum, digo que ela é o exemplo de profissional no qual me espelho pra tentar ser parecida um dia. À você professora, meus sinceros agradecimentos por ter me ensinado tantas lições e por ter me mostrado o quão fascinante é o mundo do Data Mining." - Hinessa Caminha. 
 #images/default.jpeg
 
 #ITEM
 #Ricardo Reis Pereira
-#“Ricardo Reis, mais conhecido como “Ricardo ô Mito Reis”. Minha primeira impressão dele foi de medo. Todos me falavam de seu jeito exigente e de como suas aulas eram difíceis. E o fato de ele ensinar Cálculo não ajudou muito. Mas, com o tempo, percebi que ele é, na verdade, um dos poucos professores que realmente apostam alto nos alunos. A impressão que tive foi a de que, apesar de o conteúdo ser difícil e temido, ele realmente acreditava que conseguiríamos, e por isso, não diminuía o ritmo. Apenas quando percebia que realmente estávamos com dificuldade, maneirava a matéria e dava aquela ajuda. Felizmente Ricardo está buscando ares mais altos. Em breve voltará do Doutorado nos proporcionando um maior sucesso em nossa busca pelo conhecimento. Boa sorte, Big Richard! :)” - Felipe Pinho (Sistemas de Informação). 
+#"Ricardo Reis, mais conhecido como "Ricardo ô Mito Reis". Minha primeira impressão dele foi de medo. Todos me falavam de seu jeito exigente e de como suas aulas eram difíceis. E o fato de ele ensinar Cálculo não ajudou muito. Mas, com o tempo, percebi que ele é, na verdade, um dos poucos professores que realmente apostam alto nos alunos. A impressão que tive foi a de que, apesar de o conteúdo ser difícil e temido, ele realmente acreditava que conseguiríamos, e por isso, não diminuía o ritmo. Apenas quando percebia que realmente estávamos com dificuldade, maneirava a matéria e dava aquela ajuda. Felizmente Ricardo está buscando ares mais altos. Em breve voltará do Doutorado nos proporcionando um maior sucesso em nossa busca pelo conhecimento. Boa sorte, Big Richard! :)" - Felipe Pinho (Sistemas de Informação). 
 #images/default.jpeg
 
 #ITEM
 #Ingrid Teixeira Monteiro
-#“Ingrid, musa inspiradora para as meninas do Campus UFC Quixadá. Chegou com seu jeito dinâmico e me cativou logo de cara com sua metodologia de ensino. Participando do evento InfoGirl, mostrou para as meninas que não importa se somos a minoria, somos capazes de fazer qualquer coisa desde que nós tenhamos força de vontade. A esta belíssima profissional, só tenho a agradecer, por sua postura, por sua criatividade e pela maneira que deixou seu conhecimento transbordar pela sala de aula. Ingrid, aqui vai meu muito obrigada.” - Amanda Oliveira de Sousa (Sistemas de Informação). 
+#"Ingrid, musa inspiradora para as meninas do Campus UFC Quixadá. Chegou com seu jeito dinâmico e me cativou logo de cara com sua metodologia de ensino. Participando do evento InfoGirl, mostrou para as meninas que não importa se somos a minoria, somos capazes de fazer qualquer coisa desde que nós tenhamos força de vontade. A esta belíssima profissional, só tenho a agradecer, por sua postura, por sua criatividade e pela maneira que deixou seu conhecimento transbordar pela sala de aula. Ingrid, aqui vai meu muito obrigada." - Amanda Oliveira de Sousa (Sistemas de Informação). 
 #images/default.jpeg
 
 #ITEM
 #Germana Ferreira Rolim
-#“Antes de conhecer a Germana, já me falavam que era uma ótima professora e eu tive o prazer de comprovar isso. Lembro da dinâmica dos aviões de papel e essa foi só uma das maneiras que ela encontrou de nos envolver em suas aulas, que eram descontraídas e produtivas. Depois, na disciplina de TGS, da mesma forma, sempre com o nível lá em cima. E eu particularmente, ainda tive mais um tempo ao lado dela, que era minha orientadora da bolsa de iniciação acadêmica, onde pude aprender muitas coisas. E ainda participamos juntas do evento InfoGirl, onde pude vê-la envolvendo garotas do ensino médio em um momento único. Todas essas experiências me proporcionaram muito conhecimento e só tenho a agradecer por isso. Obrigada Germana!” - Amanda Oliveira de Sousa (Sistemas de Informação). 
+#"Antes de conhecer a Germana, já me falavam que era uma ótima professora e eu tive o prazer de comprovar isso. Lembro da dinâmica dos aviões de papel e essa foi só uma das maneiras que ela encontrou de nos envolver em suas aulas, que eram descontraídas e produtivas. Depois, na disciplina de TGS, da mesma forma, sempre com o nível lá em cima. E eu particularmente, ainda tive mais um tempo ao lado dela, que era minha orientadora da bolsa de iniciação acadêmica, onde pude aprender muitas coisas. E ainda participamos juntas do evento InfoGirl, onde pude vê-la envolvendo garotas do ensino médio em um momento único. Todas essas experiências me proporcionaram muito conhecimento e só tenho a agradecer por isso. Obrigada Germana!" - Amanda Oliveira de Sousa (Sistemas de Informação). 
 #images/default.jpeg
 
 #ITEM
 #João Marcelo Uchôa de Alencar
-#“Durante o curso encontrei muitas disciplinas chatas e entediantes, mas poucos professores que as tornassem interessantes. De todos os professores que já tive no curso, sem duvidas João Marcelo foi o mais “Zuero”. Lembro de uma vez, que numa questão de prova, a resposta ficou muito grande e como eu tava muito apresado esqueci de passá-la a limpo antes de entregar. Depois que ele corrigiu e entregou a prova, eu olhei e ví no canto a seguinte frase: “Você já ouviu falar em paragrafo?” Sempre buscou nos mostrar que um bom aluno não é apenas aquele que faz as provas e tira notas boas, mas sim aquele que, por mais difícil que a prova seja, fica até o último minuto tentando resolvê-la, e nem aquele que consegue resolver um problema facilmente, mas sim o que tenta resolver o mesmo problema inúmeras vezes sem desistir, até conseguir. Também aprendi com ele que da primeira vez que você faz uma coisa, a mesma pode não ficar da forma como você quer, mas se você se esforçar e refazê-la várias vezes, chegará uma hora que você irá se impressionar com o que fez.” - Ciano Saraiva (Sistemas de Informação). 
+#"Durante o curso encontrei muitas disciplinas chatas e entediantes, mas poucos professores que as tornassem interessantes. De todos os professores que já tive no curso, sem duvidas João Marcelo foi o mais "Zuero". Lembro de uma vez, que numa questão de prova, a resposta ficou muito grande e como eu tava muito apresado esqueci de passá-la a limpo antes de entregar. Depois que ele corrigiu e entregou a prova, eu olhei e ví no canto a seguinte frase: "Você já ouviu falar em paragrafo?" Sempre buscou nos mostrar que um bom aluno não é apenas aquele que faz as provas e tira notas boas, mas sim aquele que, por mais difícil que a prova seja, fica até o último minuto tentando resolvê-la, e nem aquele que consegue resolver um problema facilmente, mas sim o que tenta resolver o mesmo problema inúmeras vezes sem desistir, até conseguir. Também aprendi com ele que da primeira vez que você faz uma coisa, a mesma pode não ficar da forma como você quer, mas se você se esforçar e refazê-la várias vezes, chegará uma hora que você irá se impressionar com o que fez." - Ciano Saraiva (Sistemas de Informação). 
 #images/default.jpeg
 
 #ITEM
@@ -237,12 +237,12 @@ As salas de aula ficam disponíveis durante todo o horário de funcionamento di�
 
 #ITEM
 #Direção do Campus
-#A Direção do Campus é composta pelo diretor, o Professor Davi Romero ( David com “d” no final é o David Sena ;p ), pela vice-diretora, a Professora Andréia Libório, e pela Secretaria da Direção, onde trabalham a Roberta (que chama todo mundo de Coração), a Simone (responsável principalmente pelos eventos que acontecem no campus), o Jones (falem com ele quando precisar de ônibus!), o Everton e o Glauco. Com o tempo vocês aprendem o nome de todos. 
+#A Direção do Campus é composta pelo diretor, o Professor Davi Romero ( David com "d" no final é o David Sena ;p ), pela vice-diretora, a Professora Andréia Libório, e pela Secretaria da Direção, onde trabalham a Roberta (que chama todo mundo de Coração), a Simone (responsável principalmente pelos eventos que acontecem no campus), o Jones (falem com ele quando precisar de ônibus!), o Everton e o Glauco. Com o tempo vocês aprendem o nome de todos. 
 #images/default.jpeg
 
 #ITEM
 #Coordenação do Curso
-#A coordenação do curso de Sistemas de Informação é composta pelo coordenador, o professor Rafael Braga e pelo vice, o professor Alisson Barbosa. A Secretaria Acadêmica é uma fonte comum em todos os cursos, fazendo parte de todas as coordenações ao mesmo tempo. Mas claro que alguém especificamente cuida mais de um curso que dos outros, e a responsável por “cuidar” de SI é a Ryanne a que usa óculos!. 
+#A coordenação do curso de Sistemas de Informação é composta pelo coordenador, o professor Rafael Braga e pelo vice, o professor Alisson Barbosa. A Secretaria Acadêmica é uma fonte comum em todos os cursos, fazendo parte de todas as coordenações ao mesmo tempo. Mas claro que alguém especificamente cuida mais de um curso que dos outros, e a responsável por "cuidar" de SI é a Ryanne a que usa óculos!. 
 #images/default.jpeg
 
 #ITEM
@@ -262,9 +262,9 @@ Mas Cuidado: o Calendário sofre alterações sem prévio aviso! É bom ficar se
 
 #ITEM
 #Secretaria Acadêmica
-#A Secretaria Acadêmica é onde ficam os Secretários dos Cursos. Lá tem a Ryanne, do Curso de Sistemas; o Cidclay (just “Cid”), que cuida do curso de Ciência da Computação; A Natália, que fica com Redes e é quem mais cuida de éstagio; o André, o administrador da sala; e o Venício, que é o que está há mais tempo, cuida de Engenharia de Softwares e das Bolsas.
+#A Secretaria Acadêmica é onde ficam os Secretários dos Cursos. Lá tem a Ryanne, do Curso de Sistemas; o Cidclay (just "Cid"), que cuida do curso de Ciência da Computação; A Natália, que fica com Redes e é quem mais cuida de éstagio; o André, o administrador da sala; e o Venício, que é o que está há mais tempo, cuida de Engenharia de Softwares e das Bolsas.
  Mas não se preocupe em decorar quem cuida de quê! Aqui nós temos uma secretaria unificada: todo mundo é um pouco responsável por tudo! Somente as questões mais específicas que são direcionadas a alguém, mas lá os Secretários te orientam. 
-A única coisa que podemos dizer que é bem dividida é o caixa do R.U.!! Cada funcionário tem um horário de venda, de acordo com o horário de trabalho. Diariamente as vendas ocorrem de 09h às 19h. E não adianta chorar… E se alguém ficar devendo troco: seja bom de memória ou peça para anotar o nome! Os caixas são separados. Obs: traga moedas! Eles adoram “dinheiro múdo” e você não corre o risco de deixar parte dele lá! 
+A única coisa que podemos dizer que é bem dividida é o caixa do R.U.!! Cada funcionário tem um horário de venda, de acordo com o horário de trabalho. Diariamente as vendas ocorrem de 09h às 19h. E não adianta chorar… E se alguém ficar devendo troco: seja bom de memória ou peça para anotar o nome! Os caixas são separados. Obs: traga moedas! Eles adoram "dinheiro múdo" e você não corre o risco de deixar parte dele lá! 
 É na Secretaria Acadêmica que você irá fazer o pedido de Declarações na pasta do curso, e buscá-las depois que estiverem prontas e assinadas pela coordenação, na pasta azul em cima do balcão.
 Em cima do balcão você encontra tudo! 
 Incluindo um colecionador imenso com váaaarios formulários! Tudo no mundo tem um formulário - ok, quase tudo! - e 90% deles estão no colecionador. Peça ajuda aos Secretários para te ensinarem a localizar, é bastante prático!
@@ -287,7 +287,7 @@ São locais bem aconchegantes, mas em alguns, faz um frio desgraçado ;) !
 
 #ITEM
 #Restaurante Universitário
-#O Restaurante Universitário (RU) tem seu acesso livre a qualquer estudante da Universidade. Seu funcionamento ocorre em dois horários principais: no almoço e no jantar. Em outros horários também ocorre a venda dos salgados da “tia do RU”. Para pagar a refeição, o estudante deve dispor de um ticket. Mais detalhes sobre os famosos ticket’s estão em seu respectivo tópico deste manual.
+#O Restaurante Universitário (RU) tem seu acesso livre a qualquer estudante da Universidade. Seu funcionamento ocorre em dois horários principais: no almoço e no jantar. Em outros horários também ocorre a venda dos salgados da "tia do RU". Para pagar a refeição, o estudante deve dispor de um ticket. Mais detalhes sobre os famosos ticket’s estão em seu respectivo tópico deste manual.
 O almoço começa por volta das 11h30min e estende-se até as 2h. Recomenda-se que se coma rápido para não perder o ônibus. O jantar inicia-se por volta das 17h30min, estendendo-se até as 19h.
 O nosso querido RU é mais que um simples refeitório. É nesse lugar que sentamos com os amigos e conversamos assuntos importantíssimos! Sim, conversamos muita bobagem também, mas só 90% do tempo. No restante, falamos sobre novas trollagens, ideias milionárias, e sobre… bem, o resto é segredo! 
 #images/default.jpeg
@@ -357,7 +357,7 @@ Atividades Complementares, como por exemplo: extensão, monitoria, iniciação c
 
 #ITEM
 #Aprovação
-#Existe aprovação “de primeira” nas disciplinas de matemática básica, pré-cálculo, FUP e em todas as outras. Calma, é só tirar acima de 7,0 na nota final! :D Bem simples. rsrs 
+#Existe aprovação "de primeira" nas disciplinas de matemática básica, pré-cálculo, FUP e em todas as outras. Calma, é só tirar acima de 7,0 na nota final! :D Bem simples. rsrs 
 #images/default.jpeg
 
 #ITEM
@@ -368,7 +368,7 @@ Em relação às reprovações por falta o negócio muda! Se discente reprovar 0
 
 #ITEM
 #Trancamento
-#Trancar significa deixar a matrícula em “stand by”. O aluno não quer sair do curso mas, por motivos “de força maior” precisa interromper. Mas o discente não pode trancar a qualquer tempo, tem que observar as datas no calendário acadêmico para solicitar na Secretaria. Há dois tipos de trancamento: total e parcial. 
+#Trancar significa deixar a matrícula em "stand by". O aluno não quer sair do curso mas, por motivos "de força maior" precisa interromper. Mas o discente não pode trancar a qualquer tempo, tem que observar as datas no calendário acadêmico para solicitar na Secretaria. Há dois tipos de trancamento: total e parcial. 
 #images/default.jpeg
 
 #ITEM
@@ -393,7 +393,7 @@ CUIDADO: O aluno regular que não estiver cursando disciplina, por estar em situ
 #Para os bixos que moram fora de Quixadá, além de escolherem uma nova moradia, é importante obterem informações sobre como realizar o trajeto até a cidade.
 A forma mais usual é a utilização de ônibus. Quixadá conta com um terminal rodoviário localizado na Avenida Plácido Castelo - 1559, que facilita a locomoção de muitos alunos que têm que fazer, diariamente, o trajeto de suas cidades até Quixadá.
 O Campus fica localizado um pouco distante do centro da cidade, por isso, contamos com três ônibus que levam os alunos até lá.
-Cada ônibus leva alunos da UFC e, também, do IFCE, então é normal os ônibus estarem um “pouco” lotados. Se você der sorte, pode até conseguir uma cadeira para sentar. 
+Cada ônibus leva alunos da UFC e, também, do IFCE, então é normal os ônibus estarem um "pouco" lotados. Se você der sorte, pode até conseguir uma cadeira para sentar. 
 #images/default.jpeg
 
 #ITEM
@@ -414,7 +414,7 @@ Mas existem nossos grandes companheiros de apertos, os Moto-Taxistas. Caso perca
 #ITEM
 #Auxilio Moradia
 #Muitos alunos vem de longe morar na cidade de quixadá em busca de algum curso na UFC, como a universidade não possui residencia universitária na cidade(diferentemente da capital) temos o tão desejado Auxilio Moradia, o auxilio moradia busca contemplar os alunos que não moram em quixadá e não tenha condições financeiras para manter-se na cidade e assim continuar no curso.
-O Auxilio é em media de R$ 490,00 mensais, pagos “sempre” no inicio de cada mês, além da grana, os alunos que recebem esse auxilio recebem também dois tickets gratuitos diariamente para o Restaurante Universitário. Esse auxilio dura até a data prevista para a conclusão do seu curso, deste que você nunca, repito NUNCA reprove nenhuma disciplina por falta e sempre mantenha sua residencia em quixadá atualizada na secretária do campus.
+O Auxilio é em media de R$ 490,00 mensais, pagos "sempre" no inicio de cada mês, além da grana, os alunos que recebem esse auxilio recebem também dois tickets gratuitos diariamente para o Restaurante Universitário. Esse auxilio dura até a data prevista para a conclusão do seu curso, deste que você nunca, repito NUNCA reprove nenhuma disciplina por falta e sempre mantenha sua residencia em quixadá atualizada na secretária do campus.
 O processo para seleção dos alunos que receberam o auxílio acontece sempre no inicio de cada ano e é concorrido a tapa.
 A seleção é basicamente três etapas:
 1. Comprovação dos Documentos Fornecido
@@ -454,7 +454,7 @@ Primeiro requisito para se candidatar a uma bolsa do PET – SI é ter um excele
 #ITEM
 #Ciência Sem Fronteiras
 #Fique de olho também no programa Ciência sem Fronteiras, do governo federal, distribui bolsas para instituições de excelência dos Estados Unidos, Alemanha, Itália, Reino Unido, entre outros.
-“Mas vale a pena? Poxa, vou atrasar meu curso, ficarei deslocado de turma, vou ficar em um país estranho, para quê? Acho que não vale a pena...” Vamos começar pelos motivos profissionais: ter no currículo que você fala uma língua estrangeira fluentemente devido à sua imersão no país é algo muito valorizado pelas empresas, além do fato que o pessoal do RH vai ver que você tem capacidade de se virar sozinho, uma vez que não é tão óbvio sair do país e recomeçar sua vida fora. Você não atrasará tanto seu curso, pois a UFC conta com um sistema de equivalências de matérias, e se você escolher bem pode fazer matérias que serão convalidadas na UFC. Agora, o que realmente é importante: você está na faculdade, está na hora de deixar o colo da mamãe e partir para o mundo! A experiência de conhecer outras culturas, criar laços de amizade internacionais, viajar por terras desconhecidas não tem preço! Pense que é no seu tempo de facul que terá oportunidade de fazer uma aventura destas, não desperdice.
+"Mas vale a pena? Poxa, vou atrasar meu curso, ficarei deslocado de turma, vou ficar em um país estranho, para quê? Acho que não vale a pena..." Vamos começar pelos motivos profissionais: ter no currículo que você fala uma língua estrangeira fluentemente devido à sua imersão no país é algo muito valorizado pelas empresas, além do fato que o pessoal do RH vai ver que você tem capacidade de se virar sozinho, uma vez que não é tão óbvio sair do país e recomeçar sua vida fora. Você não atrasará tanto seu curso, pois a UFC conta com um sistema de equivalências de matérias, e se você escolher bem pode fazer matérias que serão convalidadas na UFC. Agora, o que realmente é importante: você está na faculdade, está na hora de deixar o colo da mamãe e partir para o mundo! A experiência de conhecer outras culturas, criar laços de amizade internacionais, viajar por terras desconhecidas não tem preço! Pense que é no seu tempo de facul que terá oportunidade de fazer uma aventura destas, não desperdice.
 Se você abriu um sorriso e pensa que está preparado para sair do país, comece a estudar, bixo! Não que ter uma boa nota seja a única forma de conseguir uma vaga em uma bolsa de estudos, mas com certeza é a mais fácil. Busque atirar em todas as frentes, mantenha seu IRA num bom nível. Boa Sorte! 
 #images/default.jpeg
 
@@ -484,6 +484,6 @@ Como exemplo dessas atividades temos: Células de Aprendizagem Cooperativa Seman
 
 #ITEM
 #Passeios Turísticos nas Formações Rochosas
-#Se você como todo bicho gosta de se aventurar em matas fechadas, uma boa opção é escalar algumas das inúmeras rochas que se encontram no território de quixadá, as rochas de nossa preferência são: Pedra do Cruzeiro no Cendro de Quixadá, A Pedra da Galinha Choca próxima do Cedro e A Rocha que se encontrar atrás da UFC, dessa ultima é possível ter uma vista perfeita do campus, mas lembrando que é sempre bom ir com algum veterano responsável, muitos professores costumam levar grupos de alunos para algum desses passeios, agora não sabemos se é com intenção de deixar os alunos mais relaxados ou de no descuido de alguém, jogá-lo lá de cima pra se divertir, mas saiba que não há registros de nenhum acidente ocorrido,”Não há registros...”. 
+#Se você como todo bicho gosta de se aventurar em matas fechadas, uma boa opção é escalar algumas das inúmeras rochas que se encontram no território de quixadá, as rochas de nossa preferência são: Pedra do Cruzeiro no Cendro de Quixadá, A Pedra da Galinha Choca próxima do Cedro e A Rocha que se encontrar atrás da UFC, dessa ultima é possível ter uma vista perfeita do campus, mas lembrando que é sempre bom ir com algum veterano responsável, muitos professores costumam levar grupos de alunos para algum desses passeios, agora não sabemos se é com intenção de deixar os alunos mais relaxados ou de no descuido de alguém, jogá-lo lá de cima pra se divertir, mas saiba que não há registros de nenhum acidente ocorrido,"Não há registros...". 
 #images/default.jpeg
 

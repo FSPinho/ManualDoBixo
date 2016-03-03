@@ -43,7 +43,7 @@
                     fresco:actualImageScaleType="centerCrop"
                     fresco:placeholderImage="@color/colorPrimaryDark"
                     fresco:placeholderImageScaleType="fitCenter"
-                    fresco:failureImage="@color/md_red_200"
+                    fresco:failureImage="@mipmap/ic_baner"
                     fresco:failureImageScaleType="centerCrop"
                     fresco:retryImage="@color/md_green_200"
                     fresco:retryImageScaleType="centerCrop"
