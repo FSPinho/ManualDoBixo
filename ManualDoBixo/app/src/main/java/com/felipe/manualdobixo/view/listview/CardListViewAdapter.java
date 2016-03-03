@@ -1,14 +1,23 @@
 package com.felipe.manualdobixo.view.listview;
 
 import android.content.Context;
+import android.graphics.drawable.Animatable;
 import android.net.Uri;
+import android.support.annotation.Nullable;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.facebook.drawee.backends.pipeline.Fresco;
+import com.facebook.drawee.controller.BaseControllerListener;
+import com.facebook.drawee.controller.ControllerListener;
+import com.facebook.drawee.interfaces.DraweeController;
 import com.facebook.drawee.view.SimpleDraweeView;
+import com.facebook.imagepipeline.image.ImageInfo;
 import com.felipe.manualdobixo.R;
 
 import java.util.ArrayList;
@@ -82,12 +91,38 @@ public class CardListViewAdapter extends RecyclerView.Adapter<CardListViewAdapte
         if(!card.getImage().equals("none")) {
 
             Uri uri = Uri.parse(card.getImage());
-            holder.image.setVisibility(View.VISIBLE);
-            holder.image.setImageURI(uri);
+            holder.imageLayout.setVisibility(View.VISIBLE);
+
+            ControllerListener controllerListener = new BaseControllerListener<ImageInfo>() {
+                @Override
+                public void onFinalImageSet(String id, @Nullable ImageInfo imageInfo, @Nullable Animatable anim) {
+                    Log.i("DEBUG", "Image received: " + card.getTitle());
+                    holder.progressBar.setVisibility(View.GONE);
+                }
+
+                @Override
+                public void onIntermediateImageSet(String id, @Nullable ImageInfo imageInfo) {
+                    Log.i("DEBUG", "Intermediate image received: " + card.getTitle());
+                    holder.progressBar.setVisibility(View.GONE);
+                }
+
+                @Override
+                public void onFailure(String id, Throwable throwable) {
+                    Log.i("DEBUG", "Final mage received: " + card.getTitle());
+                    holder.progressBar.setVisibility(View.GONE);
+                }
+            };
+
+            DraweeController controller = Fresco.newDraweeControllerBuilder()
+                    .setControllerListener(controllerListener)
+                    .setUri(uri)
+                    .build();
+            holder.image.setController(controller);
+
 
         } else {
 
-            holder.image.setVisibility(View.GONE);
+            holder.imageLayout.setVisibility(View.GONE);
 
         }
 
@@ -132,6 +167,8 @@ public class CardListViewAdapter extends RecyclerView.Adapter<CardListViewAdapte
         public TextView title;
         public TextView subtitle;
         public View layout;
+        public View imageLayout;
+        public ProgressBar progressBar;
 
         public CardViewHolder(View itemView) {
 
@@ -141,6 +178,8 @@ public class CardListViewAdapter extends RecyclerView.Adapter<CardListViewAdapte
             title = (TextView) itemView.findViewById(R.id.mb_card_title);
             subtitle = (TextView) itemView.findViewById(R.id.mb_card_subtitle);
             layout = itemView.findViewById(R.id.mb_card_layout);
+            imageLayout = itemView.findViewById(R.id.mb_card_image_layout);
+            progressBar = (ProgressBar) itemView.findViewById(R.id.mb_card_progressbar);
 
         }
 

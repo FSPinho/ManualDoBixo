@@ -21,16 +21,37 @@
             android:weightSum="10"
             android:background="@drawable/default_selector">
 
-            <com.facebook.drawee.view.SimpleDraweeView
-                android:id="@+id/mb_card_image"
+            <FrameLayout
+                android:id="@+id/mb_card_image_layout"
                 android:layout_width="match_parent"
                 android:layout_height="128dp"
-                android:layout_weight="10"
-                android:background="@color/md_grey_200"
-                android:alpha=".8"
-                fresco:actualImageScaleType="centerCrop"
-                fresco:failureImage="@mipmap/ic_baner"
-                fresco:failureImageScaleType="centerCrop"/>
+                android:layout_weight="10">
+
+                <com.facebook.drawee.view.SimpleDraweeView
+                    android:id="@+id/mb_card_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/md_grey_200"
+                    android:alpha=".8"
+                    fresco:actualImageScaleType="centerCrop"
+                    fresco:failureImage="@mipmap/ic_baner"
+                    fresco:failureImageScaleType="centerCrop"/>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ProgressBar
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/mb_card_progressbar"
+                        android:layout_alignParentBottom="true"
+                        android:indeterminate="true"/>
+
+                </RelativeLayout>
+
+            </FrameLayout>
 
             <TextView
                 android:id="@+id/mb_card_title"
