@@ -8,7 +8,7 @@
 Mas, calma! Isso não significa que devemos aguentar horas estudando conteúdos chatos. Se isso estiver acontecendo, há algo errado! Depois de alguns semestres estudando um dia antes da prova, é curioso perceber que embora fiquemos chateados em ler páginas e mais páginas de um livro, os conteúdos são realmente interessantes. Claro, fazermos TI e Gostamos disso! Ah, Cálculo, se tivéssemos nos conhecido em outra situação, teria sido melhor. Tinha que ser dois dias antes da prova :p ?
 A dica é sempre começar seus estudos com o semestre, e seguí-los aos poucos. Se o professor fala sobre determinado conteúdo, complemente-o com uma boa lida no livro. Tire suas dúvidas, mande e-mail ao professor ou vá à sua sala, perturbe ele. Participe das células de aprendizagem cooperativa, das monitorias, grupos de estudo. Transforme cada trabalho chato numa oportunidade de aprender algo novo. Claro que sempre haverá um pouco de preguiça, mas lembre-se que a verdadeira motivação vem de dentro de você ;)
 Crescemos acostumados com a "lei do menor esforço". Por que fazer o melhor, se o bom já é suficiente? Ao utilizar essa filosofia em nossos estudos, nos prendemos à falsa sensação de dever cumprido ao terminar cada disciplina. O que nem sempre percebemos é que nos nivelamos pelo referencial errado. Em outras palavras, se você medir todo seu esforço a capacidade em relação às pessoas medíocres, você será bom. Mas se você medir seu esforço em relação aos melhores, sua capacidade não terá limites.
-#http://s20.postimg.org/a0tfsjf31/mb_image_1.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_1.jpg
 
 #ITEM
 #Siglas Malucas
@@ -25,7 +25,7 @@ Não se preocupe muito em decorá-las, isso acontecerá naturalmente, e cuidado 
 Com isso, é bastante comum que num primeiro momento seja difícil conseguir amigos, mas um pouco de apoio emocional nesse momento é essencial para a sobrevivência do calouro.
 Felizmente, na UFC existem muitas opções para os novatos se socializarem e encontrarem parceiros de luta. As Células de Aprendizagem Cooperativa, a Maratona de Programação, as Monitorias, os Grupos de estudo informais, etc, todos reúnem e proporcionam um maior contato entre os estudantes. Cada um destes projetos está detalhado em seu respectivo tópico deste manual. Além disso, temos o serviço de Psicologia aqui no Campus! É só procurar a Luiza que ela arranja um horário para você!
 Independente de como aconteça, a criação de laços é algo natural e precioso. Serão essas pessoas que participarão dos momentos de felicidade em nossa dura saga na graduação. Elas enxugarão nossas lágrimas quando formos para a AF, passarão pasta de dente em nossas faces enquanto dormimos, mas principalmente, irão mostrar que a zoeira não tem fim :3
-#http://s20.postimg.org/amdtawkrh/mb_image_3.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_3.jpg
 
 #ITEM
 #Ensino Médio vs Faculdade
@@ -122,7 +122,7 @@ Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um em
 #ITEM
 #David Sena Oliveira
 #"David Sena, é o professor mais polêmico do campus, sem dúvidas. Mas, um conselho: Não acredite em tudo de ruim que ouvir dele antes de conhecê-lo. Eu tive o prazer de fazer uma das cadeiras mais complicadas para o meu curso com ele, e de ser aprovada com uma nota ótima - agora nisso, acredite: Ou você passa ou você não passa com ele, não tem história de AF, é 0 ou 10, é 8 ou 80. O que eu percebi, é que ele é com cada aluno exatamente da forma que ele merece. Realmente, ele não vai lhe dar muita atenção, caso você demonstre desinteresse nas aulas deles, e isso ele sempre deixa bem claro no início das aulas. Ele é uma pessoa de um conhecimento absurdo, com uma didática maravilhosa, que sempre rende aulas bastante proveitosas e prazerosas, eu nunca me dei contas das duas horas passando... Você vai acreditar que ele é um gênio, e ele é mesmo. Nas aulas sempre foi muito engraçado, e sempre inusitado, ele não desperdiça aula - já deu aula até no escuro. Muito exigente. Exigente demais. Mas antes de reclamar, repare que ele cobra exatamente aquilo que passa. E ele nunca vai deixar o aluno para trás, caso ele peça ajuda e demonstre interesse, ele sempre estará a disposição. Vai responder sempre seus emails, e nunca vai se importar se você for pedir ajuda na sala dele, nos corredores, na fila do RU... Eu já até tirei brincadeira no facebook com ele, e ele me respondeu e ainda me elogiou (Mas eu não aconselho que façam isso, kkkk). Contudo, é muito simples e carismático. Adorei a cadeira que fiz com ele, aprendi de verdade, e ele sem dúvida é um dos melhores. Aproveitem!" - Raquel Vitoriano
-#http://s20.postimg.org/ehlsr7tb1/mb_image_9.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_4.jpg
 
 #ITEM
 #Michel Sales Bonfin
@@ -137,7 +137,7 @@ Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um em
 #ITEM
 #Ricardo Reis Pereira
 #“Ricardo Reis, mais conhecido como “Ricardo ô Mito Reis”. Minha primeira impressão dele foi de medo. Todos me falavam de seu jeito exigente e de como suas aulas eram difíceis. E o fato de ele ensinar Cálculo não ajudou muito. Mas, com o tempo, percebi que ele é, na verdade, um dos poucos professores que realmente apostam alto nos alunos. A impressão que tive foi a de que, apesar de o conteúdo ser difícil e temido, ele realmente acreditava que conseguiríamos, e por isso, não diminuía o ritmo. Apenas quando percebia que realmente estávamos com dificuldade, maneirava a matéria e dava aquela ajuda. Felizmente Ricardo está buscando ares mais altos. Em breve voltará do Doutorado nos proporcionando um maior sucesso em nossa busca pelo conhecimento. Boa sorte, Big Richard! :)” - Felipe Pinho (Sistemas de Informação).
-#http://s20.postimg.org/jf3yq2knx/mb_image_17.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_17.jpg
 
 #ITEM
 #Ingrid Teixeira Monteiro
@@ -152,7 +152,7 @@ Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um em
 #ITEM
 #João Marcelo Uchôa de Alencar
 #“Durante o curso encontrei muitas disciplinas chatas e entediantes, mas poucos professores que as tornassem interessantes. De todos os professores que já tive no curso, sem duvidas João Marcelo foi o mais “Zuero”. Lembro de uma vez, que numa questão de prova, a resposta ficou muito grande e como eu tava muito apresado esqueci de passá-la a limpo antes de entregar. Depois que ele corrigiu e entregou a prova, eu olhei e ví no canto a seguinte frase: “Você já ouviu falar em paragrafo?” Sempre buscou nos mostrar que um bom aluno não é apenas aquele que faz as provas e tira notas boas, mas sim aquele que, por mais difícil que a prova seja, fica até o último minuto tentando resolvê-la, e nem aquele que consegue resolver um problema facilmente, mas sim o que tenta resolver o mesmo problema inúmeras vezes sem desistir, até conseguir. Também aprendi com ele que da primeira vez que você faz uma coisa, a mesma pode não ficar da forma como você quer, mas se você se esforçar e refazê-la várias vezes, chegará uma hora que você irá se impressionar com o que fez.” - Ciano Saraiva (Sistemas de Informação).
-#http://s20.postimg.org/72wgyu7fh/mb_image_11.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_11.jpg
 
 #ITEM
 #Regis Pires Magalhães
@@ -162,7 +162,7 @@ Se você quizer deixar aqui uma homenagem ao seu professor favorito, envie um em
 - Vamos sortear um aluno pra apresentar a resolução da lista!
 - Pessoal, o nome dos meus cinco filhos...
 E foi com seu jeito ímpar de se expressar, de divertir os alunos e sua metodologia pedorosa que ele, o Regis, conseguiu ganhar o respeito e admirição de todos os alunos, e principalmente a minha. Lembro-me das primeiras linhas de SQL escritas, das primeiras consultas feitas no banco de dados e da sede que tinha em assistir suas aulas. Logo fascinei-me por tudo o que estava sendo ensinado e sem dúvidas, ele foi a chave principal pra que isso ocorresse. O semestre acabou, a turma seguiu com outras disciplinas e professores, mas sempre que ocorrem os encontros repentinos nos corredores do campus, ele faz questão de sorrir e cumprimentar a cada um de nós. Sempre disposto a ajudar e a somar conhecimentos. As experiências que vivemos na Universidade depende de nós, da sorte que temos de encontrar pessoas especiais e que nos fazem sentir que somos também. O Regis é uma dessas." - Hinessa Caminha.
-#http://s20.postimg.org/ebcp1v9jx/mb_image_15.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_15.jpg
 
 #TOPIC
 #Sistemas da UFC
@@ -172,26 +172,26 @@ E foi com seu jeito ímpar de se expressar, de divertir os alunos e sua metodolo
 #SIGAA
 #O Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) é responsável por informatizar vários procedimentos da área acadêmica. Nele é possível ver seu histórico, suas atuais disciplinas seus respectivos horários, o calendário acadêmico da UFC além de outras coisas. Este sistema também é utilizado para a realização da matricula dos veteranos além de ser utilizado por muitos professores como ferramenta para marcarem trabalhos ou avaliações.
 O SIGAA só pode ser visualizado pelo Firefox atravéz do seguinte link: http://www.si3.ufc.br
-#http://s20.postimg.org/cpxfa1zbx/mb_image_20.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_20.jpg
 
 #ITEM
 #SIPPA
 #O Sistema de Presenças e Planos de Aula (SIPPA), como o nome sujere, é utilizado pelo professores para fazer a frequência dos alunos e nele ficam amostra as ementas das disciplinas. Também é possível visualizar neste sistema suas atuais disciplinas com suas respectivas notas.
 Cada professor age de forma distinta. Alguns não fazem a chamada no SIPPA, preferem fazer em papel (gambiarra) e muitos não postam as notas das provas lá. Sim, isso mesmo! Eles adoram frescar nessas horas! Sempre demoram a por a nota ou colocam em outros locais como no Moodle. Tudo pra deixar a gente mais doido ainda.
 O SIPPA pode ser acessado no link: https://sistemas.quixada.ufc.br/apps/sippa/index.jsp
-#http://s20.postimg.org/5ir50fz19/mb_image_7.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_7.jpg
 
 #ITEM
 #SAVI
 #O Sistema de Avaliação Institucional (SAVI) é utilizado para avaliarmos os professores. Periodicamente preenchemos neste sistema, um questionário com questões referentes ao seu desempenho profissional entre outras coisas.
 Recentemente está sendo adotado outro sistema de avaliação. Ele fica localizado no SIGAA e tende a ser mais simples e rápido.
 O SAVI pode ser acessado no link: https://sistemas.quixada.ufc.br/apps/savi/index.jsp
-#http://s20.postimg.org/ia9wkoy71/mb_image_18.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_18.jpg
 
 #ITEM
 #Moodle
 #O Moodle é um sistema utilizado por muitas instituições de ensino para informatizar os processos de aprendizagem. Muitos dos professores o utilizam como ferramenta para passarem trabalhos, marcar provas e publicarem avisos, entre outras coisas. Ele pode ser acessado em https://moodle.quixada.ufc.br/
-#http://s20.postimg.org/qnflfcxel/mb_image_13.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_13.jpg
 
 #TOPIC
 #Métodos de Avaliação
@@ -235,11 +235,6 @@ Complicado, né? Pois é. De qualquer forma, fique sempre de olho em seu IRA, el
 #none
 
 #ITEM
-#Regimento Geral da UFC
-#http://ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf
-#none
-
-#ITEM
 #Calendário Acadêmico
 #O Calendário Acadêmico que o Campus segue é formulado em Fortaleza, e seguido por toda a Universidade. Deve estar sempre a mão, pois é através dele que temos as datas de trancamento, de transferência de cursos, matrículas, colação etc. Você pode encontrá-lo em http://www.ufc.br/.
 Mas Cuidado: o Calendário sofre alterações sem prévio aviso! É bom ficar sempre de olho.
@@ -247,7 +242,7 @@ Mas Cuidado: o Calendário sofre alterações sem prévio aviso! É bom ficar se
 
 #TOPIC
 #Infraestrutura
-#http://s20.postimg.org/lv16q6dct/mb_image_8.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_8.jpg
 
 #ITEM
 #Salas de Aula
@@ -264,7 +259,7 @@ A única coisa que podemos dizer que é bem dividida é o caixa do R.U.!! Cada f
 Em cima do balcão você encontra tudo!
 Incluindo um colecionador imenso com váaaarios formulários! Tudo no mundo tem um formulário - ok, quase tudo! - e 90% deles estão no colecionador. Peça ajuda aos Secretários para te ensinarem a localizar, é bastante prático!
 No balcão da Secretaria tem também o Jornal da UFC, caneta, grampeador… Várias coisas que podem te auxiliar no dia a dia. Mas em uma coisa eles não ajudam: xerox e impressão! :/ Mas no centro, perto da Praça da parada, tem onde tirar. Enfim, os Secretários são legais e estarão sempre dispostos a ajudar!! :)
-#http://s20.postimg.org/prj3zwnq5/mb_image_19.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_19.jpg
 
 #ITEM
 #Biblioteca
@@ -272,31 +267,31 @@ No balcão da Secretaria tem também o Jornal da UFC, caneta, grampeador… Vár
 Embora as pessoas que trabalham lá sejam bem legais, jamais faça barulho! Ou será expulso a pauladas. Tá bom, não é pra tanto, mas cuidado! Ah, e também não pode entrar com a mochila. Você deve deixá-la na entrada, naquelas estantes.
 Com o tempo você será quase uma extensão daquele lugar. Serão muitas provas, trabalhos, bolsa, etc… No final você terá lido o equivalente à cinco bíblias daquelas bem grandes. Sério!
 Para mais informações sobre o cadastro e o regulamento da BCQ, acesse o link: http://www.quixada.ufc.br/ ou http://bcqufc.blogspot.com.br/
-#http://s20.postimg.org/uni5duyhp/mb_image_6.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_6.jpg
 
 #ITEM
 #Laboratórios
 #O Campus conta com vários laboratórios de informática. Seu acesso é livre e gratuito a qualquer estudante da Universidade, desde que o mesmo não esteja sendo utilizado por algum professor. Normalmente, ficam disponíveis durante todo o horário de funcionamento do Campus o Laboratório 1, localizado na parte superior do primeiro bloco, e o Laboratório de Redes, localizado na última sala da parte superior do segundo bloco.
 São locais bem aconchegantes, mas em alguns, faz um frio desgraçado ;) !
-#http://s20.postimg.org/kxzcv1r8d/mb_image_12.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_12.jpg
 
 #ITEM
 #Restaurante Universitário
 #O Restaurante Universitário (RU) tem seu acesso livre a qualquer estudante da Universidade. Seu funcionamento ocorre em dois horários principais: no almoço e no jantar. Em outros horários também ocorre a venda dos salgados da “tia do RU”. Para pagar a refeição, o estudante deve dispor de um ticket. Mais detalhes sobre os famosos ticket’s estão em seu respectivo tópico deste manual.
 O almoço começa por volta das 11h30min e estende-se até as 2h. Recomenda-se que se coma rápido para não perder o ônibus. O jantar inicia-se por volta das 17h30min, estendendo-se até as 19h.
 O nosso querido RU é mais que um simples refeitório. É nesse lugar que sentamos com os amigos e conversamos assuntos importantíssimos! Sim, conversamos muita bobagem também, mas só 90% do tempo. No restante, falamos sobre novas trollagens, ideias milionárias, e sobre… bem, o resto é segredo!
-#http://s20.postimg.org/4fbm283rx/mb_image_16.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_16.jpg
 
 #ITEM
 #Bebedouros
 #Atualmente, o Campus contém uma infinidade de bebedouros espalhados por todo lado. Em um primeiro momento, é comum que se estranhe o tamanho dos copos ou sua ausência. Isso se trata, porém, de uma medida ecológica para reduzir a utilização de copos descartáveis. É recomendável que cada estudante leve consigo uma garrafa de água, que pode ser enchida e utilizada durante o dia.
-#http://s20.postimg.org/3ylt21qn1/mb_image_5.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_5.jpg
 
 #ITEM
 #Banheiros
 #Cada bloco contém pelo menos 4 banheiros. O RU tem dois banheiros, sendo o feminino facilmente encontrado próximo às pias e o masculino, escondido ao lado. Nos blocos, os banheiros são localizados próximo às escadas.
 Nossa universidade contém inúmeros banheiros, todos limpinhos e arrumados graças aos nossos queridos profissionais de limpeza. Seja consciente e cuide muito bem deste recurso tão importante.
-#http://s20.postimg.org/b4dk4hzq5/mb_image_4.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_4.jpg
 
 #TOPIC
 #Alimentação
@@ -444,7 +439,7 @@ Os principais objetivos do PET - Tecnologia da Informação são:
 3. Estimular a formação de novas lideranças capazes de articular competência acadêmica com compromisso social. As vagas para participar do programa abre conforme os atuais bolsistas saiam, ou seja, quando algum bolsista dos 12 desistem ou se forma, abre se uma vaga. O processo de seleção ocorre através de uma entrevista e da confirmação dos documentos apresentados. Nós documentos apresentados, é solicidado uma carta onde o candidato descreve o que ele entende sobre o programar, como ele define a sua comunidade de origem e um projeto que o aluno pretenda executar enquanto bolsista. PET Sistemas de Informação
 Já o segundo é formado por 13 alunos bolsistas(sendo 1 não-remunerado) que realizam as atividades sendo orientados juntamente por um tutor e um cotutor. Funciona como uma ótima oportunidade para alunos do curso de Sistemas de Informação que estejam interessados em contribuir com idéias que podem ser aplicadas em diversos projetos e/ou pesquisas, tanto para o melhor aproveitamento do curso em toda comunidade acadêmica, quanto nas comunidades da região que estão localizadas próximas ao campus Quixadá, zelando pela qualidade acadêmica, além de ter que publicar ou apresentar um trabalho científico por ano. Sempre valorizando o trabalho em equipe, proporcionando aos alunos que nele participam maiores experiências e conhecimentos que venham a contribuir na formação pessoal e profissional, comprometimento com o trabalho, adquirindo um espírito de liderança e de trabalho em equipe, importantes habilidades que devem ser adquiridas por um profissional que quer ser bem visado hoje em dia no mercado de trabalho.
 Primeiro requisito para se candidatar a uma bolsa do PET – SI é ter um excelente rendimento acadêmico e mantê-lo enquanto estiver participando do programa. Os editais para seleção de alunos para participarem do PET – SI são divulgados conformem vão surgindo vagas, das 12 possíveis. O processo de seleção ocorre através de uma entrevista onde irão ser apresentadas três propostas de projetos dos quais o aluno pretende desenvolver enquanto for bolsista, abrangendo as seguintes áreas: pesquisa, ensino e extensão. Além disso, deverão ser apresentados os documentos conforme forem pedidos no edital publicado.
-#http://s20.postimg.org/m8oqkjtb1/pet.jpg
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_14.jpg
 
 #ITEM
 #Ciência Sem Fronteiras
@@ -475,7 +470,7 @@ Como exemplo dessas atividades temos: Células de Aprendizagem Cooperativa Seman
 #ITEM
 #Visita ao Cedro
 #Aqui na universidade temos muito sofrimento... digo, lazer, a nossa principal atividade para se divertir, é visitar o cedro. O Açude Cedro fica a menos de 1km do campus, por isso, dar pra chegar lá facilmente caminhando, gostamos de ir para lá no finalzinho da tarde para ver o sol se pôr, alguma vezes vezes a gente chegar até a levar alguém para nós fazer companhia. Em muitos acontecimentos especiais(passar com conceito A em uma disciplina), gostamos de ir comemorar lá, um almoço com os amigos pra relaxar um pouco é sempre bom.
-#http://s20.postimg.org/x25fkjpct/galinha_Choca.png
+#https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/images/resized/mb_image_21.jpg
 
 #ITEM
 #Passeios Turísticos nas Formações Rochosas
