@@ -70,9 +70,6 @@ public class DataManager {
             UpdateControl updateControl = new UpdateControl(currentTimestamp);
             updateControl.save();
 
-            SugarRecord.deleteAll(Item.class);
-            SugarRecord.deleteAll(Topic.class);
-
             try {
 
                 AssetManager am = context.getAssets();
@@ -105,6 +102,9 @@ public class DataManager {
     }
 
     private static void createFrom(String topicsText) {
+        SugarRecord.deleteAll(Item.class);
+        SugarRecord.deleteAll(Topic.class);
+
         String[] topicsRaw = topicsText.split("#TOPIC");
 
         for (String topicRaw : topicsRaw) {
