@@ -23,7 +23,7 @@ public class DataManager {
 
     public static void createItems(final Context context, final OnDataLoadedListener listener) {
 
-        new ManualContentService().getManualContent("https://api.myjson.com/bins/", new OnReceiveListener<ManualContent>() {
+        new ManualContentService().getManualContent("https://raw.githubusercontent.com/FelipePinhoUFC/ManualDoBixo/master/textos/", new OnReceiveListener<ManualContent>() {
             @Override
             public void onReceived(ManualContent response) {
                 Log.i("DEBUG", "Response successfully");

@@ -8,7 +8,7 @@ import retrofit2.http.GET;
  */
 public interface ManualContentAPI {
 
-    @GET("1uet1")
+    @GET("out.json")
     Call<ManualContent> getManualContent();
 
 
